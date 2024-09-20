@@ -25,42 +25,101 @@ def special_format(number):
         formatted = f"{number:.9f}".rstrip('0').rstrip('.')
     return formatted
 
-def calculate_age(date_created):
-    birthdate = datetime.fromtimestamp(date_created / 1000, tz=timezone.utc)
+# def calculate_age(pair_created_sec):
+#     # Convert Unix timestamp from milliseconds to seconds
+#     birthdate = datetime.fromtimestamp(pair_created_sec / 1000, tz=timezone.utc)
     
+#     # Current time in UTC
+#     now = datetime.now(timezone.utc)
+    
+#     # Calculate the difference between now and birthdate
+#     delta = now - birthdate
+
+#     # Extract total years, months, and days
+#     age_years = now.year - birthdate.year
+#     age_months = now.month - birthdate.month
+#     age_days = now.day - birthdate.day
+    
+#     # Adjust for negative days or months
+#     if age_days < 0:
+#         age_months -= 1
+#         age_days += (birthdate.replace(month=birthdate.month % 12 + 1, day=1) - birthdate.replace(month=birthdate.month, day=1)).days
+
+#     if age_months < 0:
+#         age_years -= 1
+#         age_months += 12
+
+#     # Prepare age components for output
+#     age_parts = []
+#     if age_years > 0:
+#         age_parts.append(f"{age_years} year{'s' if age_years != 1 else ''}")
+#     if age_months > 0:
+#         age_parts.append(f"{age_months} month{'s' if age_months != 1 else ''}")
+#     if age_days > 0:
+#         age_parts.append(f"{age_days} day{'s' if age_days != 1 else ''}")
+
+#     return ", ".join(age_parts) if age_parts else "0 days"
+
+
+def calculate_age(pair_created_sec):
+    # Ensure the input is in milliseconds (13 digits)
+    if len(str(pair_created_sec)) > 10:
+        # Convert Unix timestamp from milliseconds to seconds
+        birthdate = datetime.fromtimestamp(pair_created_sec / 1000, tz=timezone.utc)
+    else:
+        raise ValueError("Timestamp should be in milliseconds (13 digits).")
+
     # Current time in UTC
     now = datetime.now(timezone.utc)
     
-    # Calculate the total number of days between now and birthdate
-    delta_days = (now - birthdate).days
-    # Determine the most appropriate unit
-    if delta_days >= 365.25:
-        age_years = int(delta_days // 365.25)
-        return f"{age_years} years"
-    elif delta_days >= 30.44:
-        age_months = int(delta_days // 30.44)
-        return f"{age_months} mo"
-    elif delta_days >= 7:
-        age_weeks = delta_days // 7
-        return f"{age_weeks} wk"
-    else:
-        return f"{delta_days} d"
+    # Calculate the difference between now and birthdate
+    delta = now - birthdate
+
+    # Extract total years, months, and days
+    age_years = now.year - birthdate.year
+    age_months = now.month - birthdate.month
+    age_days = now.day - birthdate.day
+    
+    # Adjust for negative days or months
+    if age_days < 0:
+        age_months -= 1
+        age_days += (birthdate.replace(month=(birthdate.month % 12) + 1, day=1) - birthdate.replace(month=birthdate.month, day=1)).days
+
+    if age_months < 0:
+        age_years -= 1
+        age_months += 12
+
+    # Prepare age components for output
+    age_parts = []
+    if age_years > 0:
+        age_parts.append(f"{age_years} year{'s' if age_years != 1 else ''}")
+    if age_months > 0:
+        age_parts.append(f"{age_months} month{'s' if age_months != 1 else ''}")
+    if age_days > 0:
+        age_parts.append(f"{age_days} day{'s' if age_days != 1 else ''}")
+
+    return ", ".join(age_parts) if age_parts else "0 days"
+
+# Example usage
+# timestamp = 1725175040000  # Example Unix timestamp in milliseconds
+# print(calculate_age(timestamp))
 
 def get_token_pools(address, page="1"):
     url = (f"https://api.dexscreener.com/latest/dex/tokens/{address}")
     response = requests.get(url)
     return response.json()
 
-def all_time_high(token_address,date_created):
+def all_time_high(token_address,pair_created_sec):
     current_datetime = datetime.now()
     timestamp_seconds = int(current_datetime.timestamp())
     splited = token_address.split('::')
     used_address =splited[0]
     print(timestamp_seconds)
-    print(date_created)
+    print(pair_created_sec)
 
-    url = f"https://public-api.birdeye.so/defi/history_price?address={used_address}%3A%3A{splited[-2]}%3A%3A{splited[-1]}&address_type=token&type=1D&time_from={date_created}&time_to={timestamp_seconds}"
-
+    url = f"https://public-api.birdeye.so/defi/history_price?address={used_address}%3A%3A{splited[-2]}%3A%3A{splited[-1]}&address_type=token&type=30m&time_from={pair_created_sec}&time_to={timestamp_seconds}"
+    print(timestamp_seconds, 'after b4')
+    print(pair_created_sec, 'after afta')
     headers = {
         "accept": "application/json",
         "x-chain": "sui",
@@ -173,6 +232,10 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 twitter = f"<a href='{value.get('info', {}).get('socials', [{}])[0].get('url', '')}'>X</a>" if value.get('info', {}).get('socials') else "N/A"
                 telegram = f"<a href='{value.get('info', {}).get('socials', [{}])[1].get('url', '')}'>TG</a>" if value.get('info', {}).get('socials') else "N/A"
                 pair_created = calculate_age(value.get('pairCreatedAt', "N/A"))
+                pair_created_sec = (value.get('pairCreatedAt', "N/A"))
+
+                print(pair_created, 'age')
+
                 hr_24 = value.get('priceChange', {}).get('h24', "N/A")
                 hr_1 = value.get('priceChange', {}).get('h1', "N/A")
                 vol_in_usd = value.get('volume', {}).get('h24', "N/A")
@@ -211,6 +274,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 f"💎FDV: <code>${special_format(values['fdv'])}</code>\n"
                 f"💦Liq: <code>${special_format(values['liquidity'])}</code>\n"
                 f"📊Vol: <code>${special_format(values['vol_in_usd'])} Age: {values['pair_created']}</code>\n"
+                
                 f"🌋ATH: <code>${special_format(values['ath'])} @ {values['time_for_ath']}</code> \n"
                 f"📉 1H: <code><a href ='#'>{special_format(values['hr_1'])}% | ${special_format(values['vol_in_usd_1hr'])} | 🅑 {values['tnx_buy_1hr']} | 🅢 {values['tnx_sell_1hr']}</a></code>\n"
                 f"💬{values['telegram']} | {values['twitter']} | {values['website']}\n\n"
@@ -295,8 +359,8 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
 
     except Exception as e:
         print('heree',e)
-TOKEN_KEY_ = '8137029737:AAHegPYrIqn64szuBQuLsxO6oLs_h0OqGMQ'
-# TOKEN_KEY_ = '7235848209:AAFLCISYSZKmff6dp59-q15JMRDltzgr48s'
+# TOKEN_KEY_ = '8137029737:AAHegPYrIqn64szuBQuLsxO6oLs_h0OqGMQ'
+TOKEN_KEY_ = '7235848209:AAFLCISYSZKmff6dp59-q15JMRDltzgr48s'
 def main():
     app = ApplicationBuilder().token(TOKEN_KEY_).build()
     app.add_handler(ChatMemberHandler(bot_added_to_group, ChatMemberHandler.MY_CHAT_MEMBER))
