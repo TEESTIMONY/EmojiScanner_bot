@@ -148,7 +148,7 @@ async def start(update:Update,context : ContextTypes.DEFAULT_TYPE):
     "🎉 <b>Welcome to Emoji Bot!</b> 🎉\n\n"
     "🔍 Scan and explore to receive an <b>analytical security report</b> of tokens on the <b>Sui Blockchain</b>.\n\n"
     "🤔 For questions, join our socials and let's see if you can keep up:\n\n"
-    "<a href='https://t.me/Suiemoji'>📱 Telegram</a> | <a href='https://x.com/SuiEmoji'>🐦 X</a> | <a href='https://hop.ag/swap/SUI-EMOJI'>💰 Buy Now</a>\n\n"
+    "<a href='https://t.me/Suiemoji'>📱 Telegram</a> | <a href='https://x.com/SuiEmoji'>🐦 X</a> | <a href='https://hop.ag/swap/SUI-EMOJI'>💰 Buy Emoji</a>\n\n"
     "ℹ️ Don't forget to add me to a group chat and make me an admin—I'm a lot of fun there! 🎈"
 )
         await context.bot.send_message(user_id,text=message,parse_mode='HTML',disable_web_page_preview=True)
