@@ -49,8 +49,6 @@ def calculate_age(date_created):
 def get_token_pools(address, page="1"):
     url = (f"https://api.dexscreener.com/latest/dex/tokens/{address}")
     response = requests.get(url)
-    with open('g.json','w')as file:
-        json.dump(response.json(),file,indent =4)
     return response.json()
 
 def all_time_high(token_address,date_created):
@@ -70,9 +68,6 @@ def all_time_high(token_address,date_created):
     }
     response = requests.get(url, headers=headers)
     data = response.json()['data']['items']
-    with open('h.json','w')as file:
-        json.dump(data,file,indent =4)
-    
     max_entry = max(data, key=lambda x: x["value"])
     return max_entry["value"], max_entry["unixTime"]
 
@@ -89,8 +84,6 @@ def get_holders(token_address:str):
     response = requests.get(url, headers=headers)
     data =response.json()
     total_percentage = sum(holder['percentage'] for holder in data['content'])
-    with open('ho.json','w')as file:
-        json.dump(data,file,indent =4)
     values = []
     addresses = []
     count =0
@@ -146,6 +139,19 @@ async def bot_added_to_group(update: Update, context: ContextTypes.DEFAULT_TYPE)
         await context.bot.send_message(chat_id=chat_id, text=welcome_message)
         #then it automatically creates a new key on the database
 executor = ThreadPoolExecutor(max_workers=4)
+
+async def start(update:Update,context : ContextTypes.DEFAULT_TYPE):
+    user_id = update.message.from_user.id
+    chat_type:str = update.message.chat.type
+    if chat_type == 'private':
+        message = (
+    "🎉 <b>Welcome to Emoji Bot!</b> 🎉\n\n"
+    "🔍 Scan and explore to receive an <b>analytical security report</b> of tokens on the <b>Sui Blockchain</b>.\n\n"
+    "🤔 For questions, join our socials and let's see if you can keep up:\n\n"
+    "<a href='https://t.me/Suiemoji'>📱 Telegram</a> | <a href='https://x.com/SuiEmoji'>🐦 X</a> | <a href='https://hop.ag/swap/SUI-EMOJI'>💰 Buy Now</a>\n\n"
+    "ℹ️ Don't forget to add me to a group chat and make me an admin—I'm a lot of fun there! 🎈"
+)
+        await context.bot.send_message(user_id,text=message,parse_mode='HTML',disable_web_page_preview=True)
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.message.chat_id
@@ -208,8 +214,8 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 f"🌋ATH: <code>${special_format(values['ath'])} @ {values['time_for_ath']}</code> \n"
                 f"📉 1H: <code><a href ='#'>{special_format(values['hr_1'])}% | ${special_format(values['vol_in_usd_1hr'])} | 🅑 {values['tnx_buy_1hr']} | 🅢 {values['tnx_sell_1hr']}</a></code>\n"
                 f"💬{values['telegram']} | {values['twitter']} | {values['website']}\n\n"
-                f"TOP: <code>{values['holders']}</code>\n\n"
-                f"HOLDERS: <code>{special_format(int(values['holders_count']))} | TOP 10: {round(values['top_holders'], 2)}%</code>\n\n"
+                f"TOP: {values['holders']}\n\n"
+                f"HOLDERS: {special_format(int(values['holders_count']))} | TOP 10: {round(values['top_holders'], 2)}%\n\n"
                 f"<code>{message}</code>\n\n"
                 f"{values['hog']} | {values['blue_dex']} | {values['birdeye']} | {values['dex_chart']}"
             )
@@ -280,8 +286,8 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
                 f"🌋ATH: <code>${special_format(values['ath'])} @ {values['time_for_ath']}</code> \n"
                 f"📉 1H: <code><a href ='#'>{special_format(values['hr_1'])}% | ${special_format(values['vol_in_usd_1hr'])} | 🅑 {values['tnx_buy_1hr']} | 🅢 {values['tnx_sell_1hr']}</a></code>\n"
                 f"💬{values['telegram']} | {values['twitter']} | {values['website']}\n\n"
-                f"TOP: <code>{values['holders']}</code>\n\n"
-                f"HOLDERS: <code>{special_format(int(values['holders_count']))} | TOP 10: {round(values['top_holders'], 2)}%</code>\n\n"
+                f"TOP: {values['holders']}\n\n"
+                f"HOLDERS: {special_format(int(values['holders_count']))} | TOP 10: {round(values['top_holders'], 2)}%\n\n"
                 f"<code>{the_args}</code>\n\n"
                 f"{values['hog']} | {values['blue_dex']} | {values['birdeye']} | {values['dex_chart']}"
             )
@@ -290,11 +296,13 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
     except Exception as e:
         print('heree',e)
 TOKEN_KEY_ = '8137029737:AAHegPYrIqn64szuBQuLsxO6oLs_h0OqGMQ'
+# TOKEN_KEY_ = '7235848209:AAFLCISYSZKmff6dp59-q15JMRDltzgr48s'
 def main():
     app = ApplicationBuilder().token(TOKEN_KEY_).build()
     app.add_handler(ChatMemberHandler(bot_added_to_group, ChatMemberHandler.MY_CHAT_MEMBER))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
     app.add_handler(CommandHandler("scan", scan))
+    app.add_handler(CommandHandler("start", start))
 
     # app.add_handler()
     app.run_polling()
