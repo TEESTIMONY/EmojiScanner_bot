@@ -1,0 +1,149 @@
+{
+    "content": [
+        {
+            "holderAddress": "0x5dc62c4b6b4bc8c8d5d8ab5e8c84a778117a3a0756ecfa4eb7826a747a5861db",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 821898949.10743,
+            "usdAmount": null,
+            "percentage": 8.2189894910743,
+            "objectsCount": 1
+        },
+        {
+            "holderAddress": "0x3a1fb383dd74f2bc7c06a3621391e1e0a8e32e201e7d98c043c899cf3301157a",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 402286724.505209,
+            "usdAmount": null,
+            "percentage": 4.02286724505209,
+            "objectsCount": 2
+        },
+        {
+            "holderAddress": "0x52471c696565b2bf9386f3f9ef60b1715ac7b92d70bc13fbd783124f58b64087",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 350320968.873332,
+            "usdAmount": null,
+            "percentage": 3.50320968873332,
+            "objectsCount": 1
+        },
+        {
+            "holderAddress": "0x03b24d864ea27c5b7703deff09fc1096c8968cc8799a4d6a8a3084bd0feaeb88",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 331134443.289346,
+            "usdAmount": null,
+            "percentage": 3.31134443289346,
+            "objectsCount": 1
+        },
+        {
+            "holderAddress": "0xe6789b2bc500b274f65dc30fa90e4f279e718e4158e7aea41ba766f1021cc1af",
+            "holderName": "@adihalo",
+            "holderImg": "https://storage.googleapis.com/suins-nft-images/QmaLFg4tQYansFpyRqmDfABdkUVy66dHtpnkH15v1LPzcY.png",
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 320834678.414539,
+            "usdAmount": null,
+            "percentage": 3.20834678414539,
+            "objectsCount": 3
+        },
+        {
+            "holderAddress": "0x72be93a26791f75ba1e318cd17b621de58051cd38d24340df3ed52ce97ddb013",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 271041395.092936,
+            "usdAmount": null,
+            "percentage": 2.71041395092936,
+            "objectsCount": 11
+        },
+        {
+            "holderAddress": "0x7d97b25e82b0167b6e7d9dd6b9217633ca08eea37fe18c3cfc2219bf33ec25b4",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 264497748.418051,
+            "usdAmount": null,
+            "percentage": 2.64497748418051,
+            "objectsCount": 1
+        },
+        {
+            "holderAddress": "0xceb3b55cd401a24d762840830bcb7b0e4293b46f56960f658ba6c2137fa45329",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 238664293.106589,
+            "usdAmount": null,
+            "percentage": 2.38664293106589,
+            "objectsCount": 9
+        },
+        {
+            "holderAddress": "0xfd1853ad96e4f13fc9d45455b8c14f24f5b103bf734b7b852d7b6ce9ae2864c5",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 229662061.464634,
+            "usdAmount": null,
+            "percentage": 2.29662061464634,
+            "objectsCount": 8
+        },
+        {
+            "holderAddress": "0xdf252b3f6723b10e725eaf3582036a373e31a4ca635e823f0adb9a3c2cae4dd9",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+            "coinDenom": "SUC",
+            "holderSecurityMessage": null,
+            "amount": 214007039.750601,
+            "usdAmount": null,
+            "percentage": 2.14007039750601,
+            "objectsCount": 1
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "sorted": true,
+            "empty": false,
+            "unsorted": false
+        },
+        "pageNumber": 0,
+        "pageSize": 10,
+        "offset": 0,
+        "paged": true,
+        "unpaged": false
+    },
+    "last": false,
+    "totalElements": 379,
+    "totalPages": 38,
+    "size": 10,
+    "number": 0,
+    "sort": {
+        "sorted": true,
+        "empty": false,
+        "unsorted": false
+    },
+    "first": true,
+    "numberOfElements": 10,
+    "empty": false
+}

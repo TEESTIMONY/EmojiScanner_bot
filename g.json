@@ -1,0 +1,155 @@
+{
+    "schemaVersion": "1.0.0",
+    "pairs": [
+        {
+            "chainId": "sui",
+            "dexId": "bluemove",
+            "url": "https://dexscreener.com/sui/0x9e027d7093d15ab1a1e80a490132646f1e7f08a50ffa32330843e9957c637715",
+            "pairAddress": "0x9e027d7093d15ab1a1e80a490132646f1e7f08a50ffa32330843e9957c637715",
+            "baseToken": {
+                "address": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+                "name": "Sui Cat",
+                "symbol": "SUC"
+            },
+            "quoteToken": {
+                "address": "0x2::sui::SUI",
+                "name": "Sui",
+                "symbol": "SUI"
+            },
+            "priceNative": "0.000005080",
+            "priceUsd": "0.000007899",
+            "txns": {
+                "m5": {
+                    "buys": 1,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 29,
+                    "sells": 25
+                },
+                "h6": {
+                    "buys": 121,
+                    "sells": 117
+                },
+                "h24": {
+                    "buys": 672,
+                    "sells": 560
+                }
+            },
+            "volume": {
+                "h24": 132661.67,
+                "h6": 25533.4,
+                "h1": 4113.9,
+                "m5": 15.55
+            },
+            "priceChange": {
+                "m5": 0.33,
+                "h1": -7.75,
+                "h6": 34.82,
+                "h24": 103
+            },
+            "liquidity": {
+                "usd": 24182.6,
+                "base": 1531905434,
+                "quote": 7769.08737
+            },
+            "fdv": 78998,
+            "marketCap": 78998,
+            "pairCreatedAt": 1726774867000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::suc.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://suicatmeme.com/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/suicatmeme"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/Suicatmeme"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "turbos-finance",
+            "url": "https://dexscreener.com/sui/0xe0dd7766073c1f44ce923b7721a8fcb391e6d7cead20898b657164134a148e64",
+            "pairAddress": "0xe0dd7766073c1f44ce923b7721a8fcb391e6d7cead20898b657164134a148e64",
+            "baseToken": {
+                "address": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+                "name": "Sui Cat",
+                "symbol": "SUC"
+            },
+            "quoteToken": {
+                "address": "0x2::sui::SUI",
+                "name": "Sui",
+                "symbol": "SUI"
+            },
+            "priceNative": "0.000005114",
+            "priceUsd": "0.000007975",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 6,
+                    "sells": 10
+                },
+                "h6": {
+                    "buys": 6,
+                    "sells": 10
+                },
+                "h24": {
+                    "buys": 6,
+                    "sells": 10
+                }
+            },
+            "volume": {
+                "h24": 263.68,
+                "h6": 263.68,
+                "h1": 263.68,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0.78,
+                "h6": 0.78,
+                "h24": 0.78
+            },
+            "liquidity": {
+                "usd": 877.09,
+                "base": 54011031,
+                "quote": 286.2703
+            },
+            "fdv": 79752,
+            "marketCap": 79752,
+            "pairCreatedAt": 1726831085000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::suc.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://suicatmeme.com/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/suicatmeme"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/Suicatmeme"
+                    }
+                ]
+            }
+        }
+    ]
+}
