@@ -359,8 +359,8 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
 
     except Exception as e:
         print('heree',e)
-# TOKEN_KEY_ = '8137029737:AAHegPYrIqn64szuBQuLsxO6oLs_h0OqGMQ'
-TOKEN_KEY_ = '7235848209:AAFLCISYSZKmff6dp59-q15JMRDltzgr48s'
+
+TOKEN_KEY_ = '8137029737:AAHegPYrIqn64szuBQuLsxO6oLs_h0OqGMQ'
 def main():
     app = ApplicationBuilder().token(TOKEN_KEY_).build()
     app.add_handler(ChatMemberHandler(bot_added_to_group, ChatMemberHandler.MY_CHAT_MEMBER))
