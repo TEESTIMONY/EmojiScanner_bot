@@ -1,0 +1,976 @@
+{
+    "schemaVersion": "1.0.0",
+    "pairs": [
+        {
+            "chainId": "sui",
+            "dexId": "cetus",
+            "url": "https://dexscreener.com/sui/0x871d8a227114f375170f149f7e9d45be822dd003eba225e83c05ac80828596bc",
+            "pairAddress": "0x871d8a227114f375170f149f7e9d45be822dd003eba225e83c05ac80828596bc",
+            "baseToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "Haedal staked SUI",
+                "symbol": "haSUI"
+            },
+            "quoteToken": {
+                "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                "name": "SUI Token",
+                "symbol": "SUI"
+            },
+            "priceNative": "1.03712",
+            "priceUsd": "1.74",
+            "txns": {
+                "m5": {
+                    "buys": 2,
+                    "sells": 3
+                },
+                "h1": {
+                    "buys": 30,
+                    "sells": 64
+                },
+                "h6": {
+                    "buys": 186,
+                    "sells": 288
+                },
+                "h24": {
+                    "buys": 763,
+                    "sells": 883
+                }
+            },
+            "volume": {
+                "h24": 1322416.59,
+                "h6": 486710.65,
+                "h1": 270504.7,
+                "m5": 3277.32
+            },
+            "priceChange": {
+                "m5": -0.13,
+                "h1": -0.01,
+                "h6": 1.88,
+                "h24": 3.95
+            },
+            "liquidity": {
+                "usd": 65306318.45,
+                "base": 12088947,
+                "quote": 26295755
+            },
+            "fdv": 75940675,
+            "marketCap": 75940675,
+            "pairCreatedAt": 1693980305000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::hasui.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.haedal.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/w3pr1nt"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "cetus",
+            "url": "https://dexscreener.com/sui/0xb942384d8d4028cdb91cd8ea60dc4aadccb24ecc7bd995a03f233dd94d868b49",
+            "pairAddress": "0xb942384d8d4028cdb91cd8ea60dc4aadccb24ecc7bd995a03f233dd94d868b49",
+            "baseToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "Haedal staked SUI",
+                "symbol": "haSUI"
+            },
+            "quoteToken": {
+                "address": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+                "name": "USD Coin (Portal from Ethereum)",
+                "symbol": "wUSDC"
+            },
+            "priceNative": "1.7498",
+            "priceUsd": "1.74",
+            "txns": {
+                "m5": {
+                    "buys": 1,
+                    "sells": 2
+                },
+                "h1": {
+                    "buys": 46,
+                    "sells": 45
+                },
+                "h6": {
+                    "buys": 218,
+                    "sells": 158
+                },
+                "h24": {
+                    "buys": 833,
+                    "sells": 464
+                }
+            },
+            "volume": {
+                "h24": 20839.55,
+                "h6": 6150.79,
+                "h1": 1730.98,
+                "m5": 182.58
+            },
+            "priceChange": {
+                "m5": 0.24,
+                "h1": -0.01,
+                "h6": 2.29,
+                "h24": 4.47
+            },
+            "liquidity": {
+                "usd": 130527.1,
+                "base": 36091,
+                "quote": 67370
+            },
+            "fdv": 76191429,
+            "marketCap": 76191429,
+            "pairCreatedAt": 1708928194000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::hasui.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.haedal.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/w3pr1nt"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "turbos-finance",
+            "url": "https://dexscreener.com/sui/0x022db7c3d497c194a5457b9307530a39b8379b09f836d64fd24f93fbe20fa626",
+            "pairAddress": "0x022db7c3d497c194a5457b9307530a39b8379b09f836d64fd24f93fbe20fa626",
+            "baseToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "quoteToken": {
+                "address": "0x2::sui::SUI",
+                "name": "Sui",
+                "symbol": "SUI"
+            },
+            "priceNative": "1.03693",
+            "priceUsd": "1.75",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 1
+                },
+                "h6": {
+                    "buys": 1,
+                    "sells": 4
+                },
+                "h24": {
+                    "buys": 10,
+                    "sells": 14
+                }
+            },
+            "volume": {
+                "h24": 9597.96,
+                "h6": 1729.68,
+                "h1": 13.58,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 2.3,
+                "h6": 1.64,
+                "h24": 4.17
+            },
+            "liquidity": {
+                "usd": 3565689.12,
+                "base": 1049294,
+                "quote": 1012871
+            },
+            "pairCreatedAt": 1699861144000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::hasui.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.haedal.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/w3pr1nt"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0xe400560498fdec3bdf75a75d993efbe5e675d532b19648cf7a49ad46f78e5f9f",
+            "pairAddress": "0xe400560498fdec3bdf75a75d993efbe5e675d532b19648cf7a49ad46f78e5f9f",
+            "baseToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "quoteToken": {
+                "address": "0x2::sui::SUI",
+                "name": "Sui",
+                "symbol": "SUI"
+            },
+            "priceNative": "1.03501",
+            "priceUsd": "1.70",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 0,
+                    "sells": 1
+                },
+                "h24": {
+                    "buys": 3,
+                    "sells": 1
+                }
+            },
+            "volume": {
+                "h24": 12.65,
+                "h6": 0.91,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0,
+                "h6": -1.02,
+                "h24": -1.68
+            },
+            "liquidity": {
+                "usd": 62838.52,
+                "base": 18376,
+                "quote": 19020
+            },
+            "pairCreatedAt": 1700628932000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::hasui.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.haedal.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/w3pr1nt"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "cetus",
+            "url": "https://dexscreener.com/sui/0x3a0b871a93c1214ec069acace9f7c7df436aae91e59b4754dbcf238d4e91d388",
+            "pairAddress": "0x3a0b871a93c1214ec069acace9f7c7df436aae91e59b4754dbcf238d4e91d388",
+            "baseToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "Haedal staked SUI",
+                "symbol": "haSUI"
+            },
+            "quoteToken": {
+                "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                "name": "SUI Token",
+                "symbol": "SUI"
+            },
+            "priceNative": "1.03812",
+            "priceUsd": "1.69",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h24": {
+                    "buys": 1,
+                    "sells": 0
+                }
+            },
+            "volume": {
+                "h24": 0.01,
+                "h6": 0,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0,
+                "h6": 0,
+                "h24": 0
+            },
+            "liquidity": {
+                "usd": 1199.04,
+                "base": 180.8728,
+                "quote": 545.5043
+            },
+            "fdv": 73912051,
+            "marketCap": 73912051,
+            "pairCreatedAt": 1710688268000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::hasui.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.haedal.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/w3pr1nt"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0xc2f86485a792c28a3669ecb2e436706beaffc5f3fa6cd1fea1e6c7fc8b7e5e27",
+            "pairAddress": "0xc2f86485a792c28a3669ecb2e436706beaffc5f3fa6cd1fea1e6c7fc8b7e5e27",
+            "baseToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "quoteToken": {
+                "address": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+                "name": "USDC Coin (Portal from ETH)",
+                "symbol": "wUSDC"
+            },
+            "priceNative": "1.7638",
+            "priceUsd": "1.76",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 1,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 5,
+                    "sells": 3
+                },
+                "h24": {
+                    "buys": 11,
+                    "sells": 10
+                }
+            },
+            "volume": {
+                "h24": 0.99,
+                "h6": 0.42,
+                "h1": 0.05,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0.64,
+                "h6": 2.17,
+                "h24": 4.56
+            },
+            "liquidity": {
+                "usd": 31.19,
+                "base": 8.8435,
+                "quote": 15.5984
+            },
+            "pairCreatedAt": 1706409373000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::hasui.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.haedal.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/w3pr1nt"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "cetus",
+            "url": "https://dexscreener.com/sui/0x9c716dacc9cfaf17ff41953adff4806c69bd8b4afe47b2c3547a26c100b80c6f",
+            "pairAddress": "0x9c716dacc9cfaf17ff41953adff4806c69bd8b4afe47b2c3547a26c100b80c6f",
+            "baseToken": {
+                "address": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+                "name": "CETUS Token",
+                "symbol": "CETUS"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "Haedal staked SUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.09219",
+            "priceUsd": "0.1619",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 3,
+                    "sells": 6
+                },
+                "h6": {
+                    "buys": 27,
+                    "sells": 23
+                },
+                "h24": {
+                    "buys": 111,
+                    "sells": 55
+                }
+            },
+            "volume": {
+                "h24": 70.7,
+                "h6": 16.07,
+                "h1": 2.17,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0.66,
+                "h6": 3.45,
+                "h24": 24.78
+            },
+            "liquidity": {
+                "usd": 295.51,
+                "base": 1039.06345,
+                "quote": 72.4292
+            },
+            "fdv": 80974527,
+            "marketCap": 80974527,
+            "pairCreatedAt": 1707201993000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::cetus.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.cetus.zone/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "discord",
+                        "url": "https://discord.gg/cetusprotocol"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "turbos-finance",
+            "url": "https://dexscreener.com/sui/0xc987973a05ed45c1d6b31afa86b8a1359126f7ee6c1a548f7008ed69a64925f7",
+            "pairAddress": "0xc987973a05ed45c1d6b31afa86b8a1359126f7ee6c1a548f7008ed69a64925f7",
+            "baseToken": {
+                "address": "0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD",
+                "name": "FUD",
+                "symbol": "FUD"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.0000003272",
+            "priceUsd": "0.0000005760",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 2,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 8,
+                    "sells": 1
+                },
+                "h24": {
+                    "buys": 24,
+                    "sells": 8
+                }
+            },
+            "volume": {
+                "h24": 34.36,
+                "h6": 13.18,
+                "h1": 1.01,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 4.01,
+                "h6": 4.67,
+                "h24": 30.44
+            },
+            "liquidity": {
+                "usd": 136.66,
+                "base": 216626157,
+                "quote": 6.7533
+            },
+            "fdv": 57600123,
+            "marketCap": 21585844,
+            "pairCreatedAt": 1704096109000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::fud.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://fudthepug.com/"
+                    },
+                    {
+                        "label": "SocialFi",
+                        "url": "https://onlyfuds.fudthepug.com/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://twitter.com/fudthepug"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/fudthepug"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0x065deede4a59e32b4ea86f41d467c559997785de96f1d9d12d6624064f6b52a1",
+            "pairAddress": "0x065deede4a59e32b4ea86f41d467c559997785de96f1d9d12d6624064f6b52a1",
+            "baseToken": {
+                "address": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+                "name": "Volo Staked SUI",
+                "symbol": "vSUI"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.9897",
+            "priceUsd": "1.69",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 3,
+                    "sells": 4
+                },
+                "h24": {
+                    "buys": 5,
+                    "sells": 6
+                }
+            },
+            "volume": {
+                "h24": 0.63,
+                "h6": 0.6,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0,
+                "h6": -1.19,
+                "h24": -1.62
+            },
+            "liquidity": {
+                "usd": 21.64,
+                "base": 6.3958,
+                "quote": 6.3304
+            },
+            "pairCreatedAt": 1704984385000
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0x490a37724554af14d34b8cd69a39b58b161b2b60b8f48b55c66db2fd6357e3f6",
+            "pairAddress": "0x490a37724554af14d34b8cd69a39b58b161b2b60b8f48b55c66db2fd6357e3f6",
+            "baseToken": {
+                "address": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+                "name": "afSUI",
+                "symbol": "AFSUI"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.9933",
+            "priceUsd": "1.72",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h24": {
+                    "buys": 0,
+                    "sells": 1
+                }
+            },
+            "volume": {
+                "h24": 0.11,
+                "h6": 0,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0,
+                "h6": 0,
+                "h24": 0
+            },
+            "liquidity": {
+                "usd": 179.96,
+                "base": 52.09237,
+                "quote": 51.7465
+            },
+            "pairCreatedAt": 1705657119000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::afsui.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://aftermath.finance/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/w3pr1nt"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0xb0c7f4dbb55698bedbf1c1961a318c0da95fd8263dd8a4a368dad1be92c7d234",
+            "pairAddress": "0xb0c7f4dbb55698bedbf1c1961a318c0da95fd8263dd8a4a368dad1be92c7d234",
+            "baseToken": {
+                "address": "0x654ead0e41e402de86474d867d56b3ccb27dc0998127789723670284b966b5f9::coin::COIN",
+                "name": "WEN",
+                "symbol": "WEN"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.00000000005410",
+            "priceUsd": "0.00000000009249",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 1
+                },
+                "h6": {
+                    "buys": 23,
+                    "sells": 21
+                },
+                "h24": {
+                    "buys": 29,
+                    "sells": 28
+                }
+            },
+            "volume": {
+                "h24": 6.54,
+                "h6": 5.47,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": -0.13,
+                "h6": 217,
+                "h24": -92.52
+            },
+            "liquidity": {
+                "usd": 1.44,
+                "base": 7826111596,
+                "quote": 0.4233
+            },
+            "pairCreatedAt": 1727590421000
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0x76705095b85716e8795f00dc7b88db6a2909bfcd070f7ea04229726c960c9f14",
+            "pairAddress": "0x76705095b85716e8795f00dc7b88db6a2909bfcd070f7ea04229726c960c9f14",
+            "baseToken": {
+                "address": "0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS",
+                "name": "Turbos",
+                "symbol": "TURBOS"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.001582",
+            "priceUsd": "0.002706",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 1,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 5,
+                    "sells": 3
+                },
+                "h24": {
+                    "buys": 9,
+                    "sells": 6
+                }
+            },
+            "volume": {
+                "h24": 1.79,
+                "h6": 1.71,
+                "h1": 0.04,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 3.4,
+                "h6": 6.02,
+                "h24": 8.81
+            },
+            "liquidity": {
+                "usd": 3.82,
+                "base": 706.7972,
+                "quote": 1.1186
+            },
+            "fdv": 10012257,
+            "marketCap": 5041864,
+            "pairCreatedAt": 1707411997000
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0x41051f28ea43b1903d5ca9e63ec8a2e847980ca7548368b7ccfc194d363fa96f",
+            "pairAddress": "0x41051f28ea43b1903d5ca9e63ec8a2e847980ca7548368b7ccfc194d363fa96f",
+            "baseToken": {
+                "address": "0x2903a4728a9c10aa710489db258a0fcdda3b8fc11007b7027a482ec2d5bc3de7::bond::BOND",
+                "name": "BOND",
+                "symbol": "BOND"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.000000000001630",
+            "priceUsd": "0.000000000002787",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 1,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 1,
+                    "sells": 0
+                },
+                "h24": {
+                    "buys": 2,
+                    "sells": 0
+                }
+            },
+            "volume": {
+                "h24": 0,
+                "h6": 0,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 1.81,
+                "h6": 1.81,
+                "h24": 1.81
+            },
+            "liquidity": {
+                "usd": 0,
+                "base": 1423898708,
+                "quote": 0.002321
+            },
+            "fdv": 251,
+            "marketCap": 251,
+            "pairCreatedAt": 1709794946000
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0x9ffe49e79fe9cb3b3ec1bc3115cbbe2f1dc62577934c9ece92a85d3377a9cfef",
+            "pairAddress": "0x9ffe49e79fe9cb3b3ec1bc3115cbbe2f1dc62577934c9ece92a85d3377a9cfef",
+            "baseToken": {
+                "address": "0x3cbae4efb916a6ff23eb4724f6fb5d37c5a342b689a6f308fa10acc944799f84::xui::XUI",
+                "name": "YouSUI",
+                "symbol": "XUI"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.0002129",
+            "priceUsd": "0.0003678",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h24": {
+                    "buys": 1,
+                    "sells": 0
+                }
+            },
+            "volume": {
+                "h24": 0,
+                "h6": 0,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0,
+                "h6": 0,
+                "h24": 0
+            },
+            "liquidity": {
+                "usd": 0,
+                "base": 0.0004273,
+                "quote": 9.1e-08
+            },
+            "fdv": 36781,
+            "marketCap": 36781,
+            "pairCreatedAt": 1718013240000
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0xe655ece49435e7f033ab61a1f290868787e126812ec49c9a856602257d7a0e90",
+            "pairAddress": "0xe655ece49435e7f033ab61a1f290868787e126812ec49c9a856602257d7a0e90",
+            "baseToken": {
+                "address": "0x6864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+                "name": "Cetus Token",
+                "symbol": "CETUS"
+            },
+            "quoteToken": {
+                "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                "name": "haSUI",
+                "symbol": "haSUI"
+            },
+            "priceNative": "0.08673",
+            "priceUsd": "0.1482",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 1,
+                    "sells": 0
+                },
+                "h24": {
+                    "buys": 1,
+                    "sells": 0
+                }
+            },
+            "volume": {
+                "h24": 0,
+                "h6": 0,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 0,
+                "h6": 0,
+                "h24": 0
+            },
+            "liquidity": {
+                "usd": 0,
+                "base": 0.0126,
+                "quote": 0.001093
+            },
+            "fdv": 148291882,
+            "marketCap": 47347460,
+            "pairCreatedAt": 1710699162000
+        }
+    ]
+}

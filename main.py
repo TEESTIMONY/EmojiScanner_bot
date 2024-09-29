@@ -10,20 +10,23 @@ from concurrent.futures import ThreadPoolExecutor
 
 ####  ============ utils ======================== #
 def special_format(number):
-    number = float(number)
-    if number >= 1_000_000_000:  # Billions
-        formatted = f"{number / 1_000_000_000:.1f}B"
-    elif number >= 1_000_000:  # Millions
-        formatted = f"{number / 1_000_000:.1f}M"
-    elif number >= 1_000:  # Thousands
-        formatted = f"{number / 1_000:.1f}K"
-    elif number >= 0.000000001:  # Handle very small numbers (up to 9 decimal places)
-        formatted = f"{number:.9f}".rstrip('0').rstrip('.')
-    elif number > 0:  # Handle very small numbers using scientific notation
-        formatted = f"{number:.9e}"
-    else:  # Handle zero or negative numbers if needed
-        formatted = f"{number:.9f}".rstrip('0').rstrip('.')
-    return formatted
+    if number == 'N/A':
+        return number
+    else:
+        number = float(number)
+        if number >= 1_000_000_000:  # Billions
+            formatted = f"{number / 1_000_000_000:.1f}B"
+        elif number >= 1_000_000:  # Millions
+            formatted = f"{number / 1_000_000:.1f}M"
+        elif number >= 1_000:  # Thousands
+            formatted = f"{number / 1_000:.1f}K"
+        elif number >= 0.000000001:  # Handle very small numbers (up to 9 decimal places)
+            formatted = f"{number:.9f}".rstrip('0').rstrip('.')
+        elif number > 0:  # Handle very small numbers using scientific notation
+            formatted = f"{number:.9e}"
+        else:  # Handle zero or negative numbers if needed
+            formatted = f"{number:.9f}".rstrip('0').rstrip('.')
+        return formatted
 
 # def calculate_age(pair_created_sec):
 #     # Convert Unix timestamp from milliseconds to seconds
@@ -107,6 +110,8 @@ def calculate_age(pair_created_sec):
 def get_token_pools(address, page="1"):
     url = (f"https://api.dexscreener.com/latest/dex/tokens/{address}")
     response = requests.get(url)
+    with open('fe.json','w')as file:
+        json.dump(response.json(),file,indent=4)
     return response.json()
 
 def all_time_high(token_address,pair_created_sec):
@@ -127,6 +132,8 @@ def all_time_high(token_address,pair_created_sec):
     }
     response = requests.get(url, headers=headers)
     data = response.json()['data']['items']
+    with open('de.json','w')as file:
+        json.dump(data,file,indent=4)
     max_entry = max(data, key=lambda x: x["value"])
     return max_entry["value"], max_entry["unixTime"]
 
@@ -220,9 +227,10 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             # Offload blocking I/O operations to a separate thread
             data = await asyncio.get_event_loop().run_in_executor(executor, get_token_pools, message)
             value = data['pairs'][0]
-
+            # print(value)
             # Collect all the values asynchronously
             async def get_values():
+                await context.bot.send_message(chat_id, text='🔃Information Gathering will take about 5 seconds... ', parse_mode='HTML', disable_web_page_preview=True)
                 pair_address = value.get('pairAddress', "N/A")
                 name = value.get('baseToken', {}).get('name', "N/A")
                 symbol = value.get('baseToken', {}).get('symbol', "N/A")
@@ -230,12 +238,10 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 fdv = value.get('marketCap', "N/A")
                 website = f"<a href='{value.get('info', {}).get('websites', [{}])[0].get('url', '')}'>WEB</a>" if value.get('info', {}).get('websites') else "N/A"
                 twitter = f"<a href='{value.get('info', {}).get('socials', [{}])[0].get('url', '')}'>X</a>" if value.get('info', {}).get('socials') else "N/A"
-                telegram = f"<a href='{value.get('info', {}).get('socials', [{}])[1].get('url', '')}'>TG</a>" if value.get('info', {}).get('socials') else "N/A"
+                telegram = f"<a href='{value.get('info', {}).get('socials', [{}])[-1].get('url', '')}'>TG</a>" if value.get('info', {}).get('socials') else "N/A"
                 pair_created = calculate_age(value.get('pairCreatedAt', "N/A"))
                 pair_created_sec = (value.get('pairCreatedAt', "N/A"))
-
                 print(pair_created, 'age')
-
                 hr_24 = value.get('priceChange', {}).get('h24', "N/A")
                 hr_1 = value.get('priceChange', {}).get('h1', "N/A")
                 vol_in_usd = value.get('volume', {}).get('h24', "N/A")
@@ -247,13 +253,19 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 date_to_use = value.get('pairCreatedAt', 0) // 1000
 
                 highest_value, corresponding_unix_time = await asyncio.get_event_loop().run_in_executor(executor, all_time_high, message, date_to_use)
-                ath = (float(highest_value) * float(fdv)) / float(price_in_usd) if highest_value and fdv and price_in_usd else "N/A"
+                print(highest_value,price_in_usd,fdv)
+                try:
+                    ath = (float(highest_value) * float(fdv)) / float(price_in_usd) if highest_value and fdv and price_in_usd else "N/A"
+                except Exception as e:
+                    ath = 'N/A'
                 dex_chart = f"<a href='https://dexscreener.com/sui/{pair_address}'>DEXSCRENEER</a>"
                 blue_dex = f"<a href='https://dex.bluemove.net/swap/0x2::sui::SUI/{pair_address}'>BLUEMOVE</a>"
                 birdeye = f"<a href='https://birdeye.so/token/{message}'>BIRDEYE</a>"
                 hog = f"<a href='https://hop.ag/swap/SUI-{symbol}'>HOP</a>"
                 holders, top_holders = await asyncio.get_event_loop().run_in_executor(executor, get_holders, message)
+                print(corresponding_unix_time)
                 time_for_ath = calculate_age(int(corresponding_unix_time * 1000)) if corresponding_unix_time else "N/A"
+                print(time_for_ath)
                 holders_count = await asyncio.get_event_loop().run_in_executor(executor, get_holders_count, message)
 
                 return {
@@ -285,8 +297,8 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             )
             await context.bot.send_message(chat_id, text=message_content, parse_mode='HTML', disable_web_page_preview=True)
 
-        except Exception as e:
-            print(e)
+        except KeyError:
+            print('e')
             await context.bot.send_message(chat_id=chat_id, text='An Error Occurred')
 
 async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
@@ -295,6 +307,8 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
     print(the_args)
     try:
         if the_args:
+            await context.bot.send_message(chat_id, text='🔃Information Gathering will take about 5 seconds... ', parse_mode='HTML', disable_web_page_preview=True)
+
             # Offload blocking I/O operations to a separate thread
             data = await asyncio.get_event_loop().run_in_executor(executor, get_token_pools, the_args)
             value = data['pairs'][0]
@@ -320,7 +334,10 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
                 date_to_use = value.get('pairCreatedAt', 0) // 1000
 
                 highest_value, corresponding_unix_time = await asyncio.get_event_loop().run_in_executor(executor, all_time_high, the_args, date_to_use)
-                ath = (float(highest_value) * float(fdv)) / float(price_in_usd) if highest_value and fdv and price_in_usd else "N/A"
+                try:
+                    ath = (float(highest_value) * float(fdv)) / float(price_in_usd) if highest_value and fdv and price_in_usd else "N/A"
+                except Exception as e:
+                    ath = 'N/A'
                 dex_chart = f"<a href='https://dexscreener.com/sui/{pair_address}'>DEXSCRENEER</a>"
                 blue_dex = f"<a href='https://dex.bluemove.net/swap/0x2::sui::SUI/{pair_address}'>BLUEMOVE</a>"
                 birdeye = f"<a href='https://birdeye.so/token/{the_args}'>BIRDEYE</a>"
@@ -328,7 +345,7 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
                 holders, top_holders = await asyncio.get_event_loop().run_in_executor(executor, get_holders, the_args)
                 time_for_ath = calculate_age(int(corresponding_unix_time * 1000)) if corresponding_unix_time else "N/A"
                 holders_count = await asyncio.get_event_loop().run_in_executor(executor, get_holders_count, the_args)
-
+                
                 return {
                     "pair_address": pair_address, "name": name, "symbol": symbol, "price_in_usd": price_in_usd, 
                     "fdv": fdv, "website": website, "twitter": twitter, "telegram": telegram, "pair_created": pair_created, 
@@ -361,6 +378,7 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
         print('heree',e)
 
 TOKEN_KEY_ = '8137029737:AAHegPYrIqn64szuBQuLsxO6oLs_h0OqGMQ'
+# TOKEN_KEY_ = '7112307264:AAHpaP5uZfU8bYb0pVE7j7WWnVLBQzejLvA'
 def main():
     app = ApplicationBuilder().token(TOKEN_KEY_).build()
     app.add_handler(ChatMemberHandler(bot_added_to_group, ChatMemberHandler.MY_CHAT_MEMBER))
