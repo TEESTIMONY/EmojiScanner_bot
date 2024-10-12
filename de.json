@@ -133,5 +133,10 @@
         "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
         "unixTime": 1728712800,
         "value": 6.698206064542545e-06
+    },
+    {
+        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "unixTime": 1728714600,
+        "value": 8.835330069523777e-06
     }
 ]

@@ -463,6 +463,13 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
     print(the_args)
     try:
         if the_args:
+            try:
+                holders_count,dev_wallet = await asyncio.get_event_loop().run_in_executor(executor, get_holders_count, the_args)
+                holders_count = special_format(int(holders_count))
+                creators_wallet = dev_wallet
+            except Exception as e:
+                holders_count = ''
+                creators_wallet = ''
 
             # Offload blocking I/O operations to a separate thread
             data = await asyncio.get_event_loop().run_in_executor(executor, get_token_pools, the_args)
@@ -505,14 +512,7 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
                 hog = f"<a href='https://hop.ag/swap/SUI-{symbol}'>HOP</a>"
                 holders, top_holders = await asyncio.get_event_loop().run_in_executor(executor, get_holders, the_args)
                 time_for_ath = calculate_age(int(corresponding_unix_time * 1000)) if corresponding_unix_time else "N/A"
-                try:
-                        holders_count,dev_wallet = await asyncio.get_event_loop().run_in_executor(executor, get_holders_count, the_args)
-                        holders_count = special_format(int(holders_count))
-                        creators_wallet = dev_wallet
-                except Exception as e:
-                    holders_count = ''
-                    creators_wallet = ''
-                
+
                 return {
                     "pair_address": pair_address, "name": name, "symbol": symbol, "price_in_usd": price_in_usd, 
                     "fdv": fdv, "website": website, "twitter": twitter, "telegram": telegram, "pair_created": pair_created, 

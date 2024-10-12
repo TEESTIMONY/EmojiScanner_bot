@@ -73,6 +73,30 @@
             "objectsCount": 1
         },
         {
+            "holderAddress": "0xdf72812f632c8764ce13ed9a32693eafd8ee55860d8bd7817c0d5370c0172f6b",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+            "coinDenom": "BLOO",
+            "holderSecurityMessage": null,
+            "amount": 145087276.846948,
+            "usdAmount": 0.0,
+            "percentage": 1.45087276846948,
+            "objectsCount": 1
+        },
+        {
+            "holderAddress": "0x183c32090caa47c1528a2d9312aa36244b25d0ba6d460c32b9934349857e4d38",
+            "holderName": null,
+            "holderImg": null,
+            "coinType": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+            "coinDenom": "BLOO",
+            "holderSecurityMessage": null,
+            "amount": 142421023.377542,
+            "usdAmount": 0.0,
+            "percentage": 1.42421023377542,
+            "objectsCount": 1
+        },
+        {
             "holderAddress": "0x8aa80df9926a7d97af3c13037b3b69b4d58364deca4c35da03be7bfb6698c7f5",
             "holderName": null,
             "holderImg": null,
@@ -95,30 +119,6 @@
             "usdAmount": 0.0,
             "percentage": 1.2542176515678,
             "objectsCount": 9
-        },
-        {
-            "holderAddress": "0x41fc0575a9b1138df37c7a3390498583bf480b7bf4771c230e483987098d2d64",
-            "holderName": null,
-            "holderImg": null,
-            "coinType": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
-            "coinDenom": "BLOO",
-            "holderSecurityMessage": null,
-            "amount": 123955363.519404,
-            "usdAmount": 0.0,
-            "percentage": 1.23955363519404,
-            "objectsCount": 2
-        },
-        {
-            "holderAddress": "0x4259141d7381f4263911e8b517cd1b7ac890c6df21bbd51451e38a5bab15f129",
-            "holderName": null,
-            "holderImg": null,
-            "coinType": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
-            "coinDenom": "BLOO",
-            "holderSecurityMessage": null,
-            "amount": 122157917.774726,
-            "usdAmount": 0.0,
-            "percentage": 1.22157917774726,
-            "objectsCount": 1
         }
     ],
     "pageable": {
@@ -134,8 +134,8 @@
         "unpaged": false
     },
     "last": false,
-    "totalElements": 1287,
-    "totalPages": 129,
+    "totalElements": 1296,
+    "totalPages": 130,
     "size": 10,
     "number": 0,
     "sort": {

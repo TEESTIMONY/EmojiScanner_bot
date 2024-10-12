@@ -16,45 +16,45 @@
                 "name": "Sui",
                 "symbol": "SUI"
             },
-            "priceNative": "0.000003173",
-            "priceUsd": "0.000006405",
+            "priceNative": "0.000004396",
+            "priceUsd": "0.000008874",
             "txns": {
                 "m5": {
-                    "buys": 6,
+                    "buys": 21,
                     "sells": 10
                 },
                 "h1": {
-                    "buys": 101,
-                    "sells": 81
+                    "buys": 129,
+                    "sells": 88
                 },
                 "h6": {
-                    "buys": 757,
-                    "sells": 490
+                    "buys": 786,
+                    "sells": 501
                 },
                 "h24": {
-                    "buys": 5354,
-                    "sells": 2969
+                    "buys": 5433,
+                    "sells": 3012
                 }
             },
             "volume": {
-                "h24": 709429.6,
-                "h6": 87157.59,
-                "h1": 11216.32,
-                "m5": 952.75
+                "h24": 716742.94,
+                "h6": 89602.54,
+                "h1": 13654.78,
+                "m5": 1205.81
             },
             "priceChange": {
-                "m5": -4.57,
-                "h1": -1.03,
-                "h6": 4.31,
-                "h24": 9.4
+                "m5": 9.51,
+                "h1": 74.57,
+                "h6": 35.27,
+                "h24": 51.56
             },
             "liquidity": {
-                "usd": 25027.83,
-                "base": 1944669848,
-                "quote": 6226.7198
+                "usd": 29473.61,
+                "base": 1668345097,
+                "quote": 7265.9691
             },
-            "fdv": 64059,
-            "marketCap": 64059,
+            "fdv": 88745,
+            "marketCap": 88745,
             "pairCreatedAt": 1728665761000,
             "info": {
                 "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::bloo.png",
@@ -91,45 +91,45 @@
                 "name": "SUI Token",
                 "symbol": "SUI"
             },
-            "priceNative": "0.000003180",
-            "priceUsd": "0.000006423",
+            "priceNative": "0.000004301",
+            "priceUsd": "0.000008683",
             "txns": {
                 "m5": {
-                    "buys": 1,
-                    "sells": 1
+                    "buys": 0,
+                    "sells": 2
                 },
                 "h1": {
-                    "buys": 6,
-                    "sells": 6
+                    "buys": 14,
+                    "sells": 10
                 },
                 "h6": {
-                    "buys": 36,
-                    "sells": 28
+                    "buys": 43,
+                    "sells": 32
                 },
                 "h24": {
-                    "buys": 38,
-                    "sells": 31
+                    "buys": 46,
+                    "sells": 37
                 }
             },
             "volume": {
-                "h24": 777.22,
-                "h6": 705.08,
-                "h1": 18.28,
-                "m5": 2.06
+                "h24": 793.92,
+                "h6": 662.36,
+                "h1": 33.65,
+                "m5": 1.13
             },
             "priceChange": {
-                "m5": -9.47,
-                "h1": 3.17,
-                "h6": 5.46,
-                "h24": -68.83
+                "m5": -0.03,
+                "h1": 71.55,
+                "h6": 23.17,
+                "h24": -57.86
             },
             "liquidity": {
-                "usd": 38.45,
-                "base": 3687899,
-                "quote": 7.3098
+                "usd": 45.78,
+                "base": 2717804,
+                "quote": 10.9899
             },
-            "fdv": 64240,
-            "marketCap": 64240,
+            "fdv": 86835,
+            "marketCap": 86835,
             "pairCreatedAt": 1728691606000,
             "info": {
                 "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::bloo.png",
