@@ -13,11 +13,18 @@ import mysql.connector
 
 SEND_MEDIA =range(1)
 ####  ============ utils ======================== #
+# db_config = {
+#     'user': 'root',
+#     'password': 'Testimonyalade@2003',
+#     'host': 'localhost',
+#     'database': 'scanner_db',
+# }
+
 db_config = {
-    'user': 'root',
-    'password': 'Testimonyalade@2003',
-    'host': 'localhost',
-    'database': 'scanner_db',
+    'user':'scanner_user',
+    'password':'Str0ng!Passw0rd',
+    'host':'154.12.231.59',
+    'database':'scanner_db'
 }
 
 connection_pool = pooling.MySQLConnectionPool(pool_name="mypool",
