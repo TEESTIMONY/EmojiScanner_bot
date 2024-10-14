@@ -3,171 +3,463 @@
     "pairs": [
         {
             "chainId": "sui",
-            "dexId": "bluemove",
-            "url": "https://dexscreener.com/sui/0x7f04d72b76ea375cf4260acbb1d811bcc4150cc9646d62e2f9a6002fa7dbdfb0",
-            "pairAddress": "0x7f04d72b76ea375cf4260acbb1d811bcc4150cc9646d62e2f9a6002fa7dbdfb0",
+            "dexId": "cetus",
+            "url": "https://dexscreener.com/sui/0x127b7cf262607a0bc6e1035bed13883d342b0a0c04ce60fc51b5ffbdd03a6983",
+            "pairAddress": "0x127b7cf262607a0bc6e1035bed13883d342b0a0c04ce60fc51b5ffbdd03a6983",
             "baseToken": {
-                "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
-                "name": "Sui Bloo",
-                "symbol": "BLOO"
+                "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+                "name": "Suiman",
+                "symbol": "suiman"
+            },
+            "quoteToken": {
+                "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                "name": "SUI Token",
+                "symbol": "SUI"
+            },
+            "priceNative": "0.002113",
+            "priceUsd": "0.004710",
+            "txns": {
+                "m5": {
+                    "buys": 23,
+                    "sells": 15
+                },
+                "h1": {
+                    "buys": 323,
+                    "sells": 129
+                },
+                "h6": {
+                    "buys": 1954,
+                    "sells": 821
+                },
+                "h24": {
+                    "buys": 7106,
+                    "sells": 3211
+                }
+            },
+            "volume": {
+                "h24": 1046350.48,
+                "h6": 155098.89,
+                "h1": 16000.33,
+                "m5": 3079.99
+            },
+            "priceChange": {
+                "m5": 3.19,
+                "h1": 3.75,
+                "h6": -5.28,
+                "h24": -29.52
+            },
+            "liquidity": {
+                "usd": 227632.92,
+                "base": 23590202,
+                "quote": 52296
+            },
+            "fdv": 4710058,
+            "marketCap": 4710058,
+            "pairCreatedAt": 1727881818000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.suiman.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/SuimanFanPage"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/SuimanPortal"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "cetus",
+            "url": "https://dexscreener.com/sui/0x09c6c673260bef5bb17b02c40c77601181eb3d8e88292eb5cc131d83a6b9cc5a",
+            "pairAddress": "0x09c6c673260bef5bb17b02c40c77601181eb3d8e88292eb5cc131d83a6b9cc5a",
+            "baseToken": {
+                "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+                "name": "Suiman",
+                "symbol": "suiman"
+            },
+            "quoteToken": {
+                "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                "name": "SUI Token",
+                "symbol": "SUI"
+            },
+            "priceNative": "0.002116",
+            "priceUsd": "0.004712",
+            "txns": {
+                "m5": {
+                    "buys": 4,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 17,
+                    "sells": 11
+                },
+                "h6": {
+                    "buys": 162,
+                    "sells": 84
+                },
+                "h24": {
+                    "buys": 679,
+                    "sells": 401
+                }
+            },
+            "volume": {
+                "h24": 541568.4,
+                "h6": 97438.67,
+                "h1": 6407.88,
+                "m5": 1719.58
+            },
+            "priceChange": {
+                "m5": 2.03,
+                "h1": 2.45,
+                "h6": -6.39,
+                "h24": -28.26
+            },
+            "liquidity": {
+                "usd": 209111.63,
+                "base": 23027137,
+                "quote": 45164
+            },
+            "fdv": 4712980,
+            "marketCap": 4712980,
+            "pairCreatedAt": 1727957241000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.suiman.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/SuimanFanPage"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/SuimanPortal"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "turbos-finance",
+            "url": "https://dexscreener.com/sui/0x8f1226943d58f8c4b3611b7672ff9c977d953dad66fac437e42a2bd0cc2d0a3e",
+            "pairAddress": "0x8f1226943d58f8c4b3611b7672ff9c977d953dad66fac437e42a2bd0cc2d0a3e",
+            "baseToken": {
+                "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+                "name": "Suiman",
+                "symbol": "suiman"
+            },
+            "quoteToken": {
+                "address": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+                "name": "USD Coin",
+                "symbol": "USDC"
+            },
+            "priceNative": "0.004685",
+            "priceUsd": "0.004685",
+            "txns": {
+                "m5": {
+                    "buys": 3,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 33,
+                    "sells": 16
+                },
+                "h6": {
+                    "buys": 243,
+                    "sells": 152
+                },
+                "h24": {
+                    "buys": 1418,
+                    "sells": 869
+                }
+            },
+            "volume": {
+                "h24": 166365.06,
+                "h6": 26233.41,
+                "h1": 2530.94,
+                "m5": 263.25
+            },
+            "priceChange": {
+                "m5": 1.71,
+                "h1": 2.87,
+                "h6": -6.59,
+                "h24": -29.59
+            },
+            "liquidity": {
+                "usd": 16762.91,
+                "base": 2427461,
+                "quote": 5389.4022
+            },
+            "fdv": 4685351,
+            "marketCap": 4685351,
+            "pairCreatedAt": 1728328643000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.suiman.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/SuimanFanPage"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/SuimanPortal"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "flowx",
+            "url": "https://dexscreener.com/sui/0xba5a7e27248f6712639f67ff6d63944788009af157a988cef5656e4f267d6eb3",
+            "pairAddress": "0xba5a7e27248f6712639f67ff6d63944788009af157a988cef5656e4f267d6eb3",
+            "baseToken": {
+                "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+                "name": "Suiman",
+                "symbol": "suiman"
+            },
+            "quoteToken": {
+                "address": "0xc7b89bcc2bbebe7786527d91c83551e08bffa1178dd2440a90784d1bedd604b4::freebies::FREEBIES",
+                "name": "Freebies",
+                "symbol": "FREEBIES"
+            },
+            "priceNative": "143.01775",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 0,
+                    "sells": 1
+                },
+                "h6": {
+                    "buys": 19,
+                    "sells": 13
+                },
+                "h24": {
+                    "buys": 80,
+                    "sells": 51
+                }
+            },
+            "volume": {
+                "h24": 0,
+                "h6": 0,
+                "h1": 0,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": -1.15,
+                "h6": -7.51,
+                "h24": -30.82
+            },
+            "pairCreatedAt": 1728754087000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.suiman.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/SuimanFanPage"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/SuimanPortal"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "bluemove",
+            "url": "https://dexscreener.com/sui/0xe21403e4abba08034b9f16918a3b5b6fd31d02f75f207dce2ca3f765f801c462",
+            "pairAddress": "0xe21403e4abba08034b9f16918a3b5b6fd31d02f75f207dce2ca3f765f801c462",
+            "baseToken": {
+                "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+                "name": "Suiman",
+                "symbol": "suiman"
+            },
+            "quoteToken": {
+                "address": "0xe38babf1e0f7e549f9d4c0441c9d00c8ffc9dcd34dcc19f3bb12eafe0267e037::movepump::MOVEPUMP",
+                "name": "MovePump",
+                "symbol": "MOVEPUMP"
+            },
+            "priceNative": "35.3212",
+            "priceUsd": "0.004631",
+            "txns": {
+                "m5": {
+                    "buys": 0,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 2,
+                    "sells": 0
+                },
+                "h6": {
+                    "buys": 18,
+                    "sells": 15
+                },
+                "h24": {
+                    "buys": 78,
+                    "sells": 65
+                }
+            },
+            "volume": {
+                "h24": 334.44,
+                "h6": 73.78,
+                "h1": 3.23,
+                "m5": 0
+            },
+            "priceChange": {
+                "m5": 0,
+                "h1": 1.28,
+                "h6": -4.89,
+                "h24": -29.6
+            },
+            "liquidity": {
+                "usd": 346.21,
+                "base": 37450,
+                "quote": 1317306
+            },
+            "fdv": 4631923,
+            "marketCap": 4631923,
+            "pairCreatedAt": 1728371634000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.suiman.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/SuimanFanPage"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/SuimanPortal"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "cetus",
+            "url": "https://dexscreener.com/sui/0x26e5ede611fc155e0ef700d8234f3ee0b4af93bd0ffcff585ef0883b84b99b3b",
+            "pairAddress": "0x26e5ede611fc155e0ef700d8234f3ee0b4af93bd0ffcff585ef0883b84b99b3b",
+            "baseToken": {
+                "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+                "name": "Suiman",
+                "symbol": "suiman"
+            },
+            "quoteToken": {
+                "address": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+                "name": "CETUS Token",
+                "symbol": "CETUS"
+            },
+            "priceNative": "0.02190",
+            "priceUsd": "0.004643",
+            "txns": {
+                "m5": {
+                    "buys": 1,
+                    "sells": 0
+                },
+                "h1": {
+                    "buys": 3,
+                    "sells": 1
+                },
+                "h6": {
+                    "buys": 16,
+                    "sells": 18
+                },
+                "h24": {
+                    "buys": 51,
+                    "sells": 42
+                }
+            },
+            "volume": {
+                "h24": 25.21,
+                "h6": 8.84,
+                "h1": 0.96,
+                "m5": 0.24
+            },
+            "priceChange": {
+                "m5": 2.02,
+                "h1": 2.2,
+                "h6": 0.55,
+                "h24": -29.13
+            },
+            "liquidity": {
+                "usd": 34.4,
+                "base": 4044.6507,
+                "quote": 73.6814
+            },
+            "fdv": 4643477,
+            "marketCap": 4643477,
+            "pairCreatedAt": 1728688932000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.suiman.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/SuimanFanPage"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/SuimanPortal"
+                    }
+                ]
+            }
+        },
+        {
+            "chainId": "sui",
+            "dexId": "bluemove",
+            "url": "https://dexscreener.com/sui/0x13cf8ac688c35adbe04192c92ac1e13fcd627ad9168806d0d944d550017e7787",
+            "pairAddress": "0x13cf8ac688c35adbe04192c92ac1e13fcd627ad9168806d0d944d550017e7787",
+            "baseToken": {
+                "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+                "name": "Suiman",
+                "symbol": "suiman"
             },
             "quoteToken": {
                 "address": "0x2::sui::SUI",
                 "name": "Sui",
                 "symbol": "SUI"
             },
-            "priceNative": "0.000004396",
-            "priceUsd": "0.000008874",
-            "txns": {
-                "m5": {
-                    "buys": 21,
-                    "sells": 10
-                },
-                "h1": {
-                    "buys": 129,
-                    "sells": 88
-                },
-                "h6": {
-                    "buys": 786,
-                    "sells": 501
-                },
-                "h24": {
-                    "buys": 5433,
-                    "sells": 3012
-                }
-            },
-            "volume": {
-                "h24": 716742.94,
-                "h6": 89602.54,
-                "h1": 13654.78,
-                "m5": 1205.81
-            },
-            "priceChange": {
-                "m5": 9.51,
-                "h1": 74.57,
-                "h6": 35.27,
-                "h24": 51.56
-            },
-            "liquidity": {
-                "usd": 29473.61,
-                "base": 1668345097,
-                "quote": 7265.9691
-            },
-            "fdv": 88745,
-            "marketCap": 88745,
-            "pairCreatedAt": 1728665761000,
-            "info": {
-                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::bloo.png",
-                "websites": [
-                    {
-                        "label": "Website",
-                        "url": "https://bloosui.xyz/"
-                    }
-                ],
-                "socials": [
-                    {
-                        "type": "twitter",
-                        "url": "https://x.com/SuiBloo"
-                    },
-                    {
-                        "type": "telegram",
-                        "url": "https://t.me/BlooOnSui"
-                    }
-                ]
-            }
-        },
-        {
-            "chainId": "sui",
-            "dexId": "cetus",
-            "url": "https://dexscreener.com/sui/0x2b00e13bc86bfbce5c89e64b87c6cb77e7f19b09f854bec11d06a7868c369b95",
-            "pairAddress": "0x2b00e13bc86bfbce5c89e64b87c6cb77e7f19b09f854bec11d06a7868c369b95",
-            "baseToken": {
-                "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
-                "name": "Sui Bloo",
-                "symbol": "BLOO"
-            },
-            "quoteToken": {
-                "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
-                "name": "SUI Token",
-                "symbol": "SUI"
-            },
-            "priceNative": "0.000004301",
-            "priceUsd": "0.000008683",
-            "txns": {
-                "m5": {
-                    "buys": 0,
-                    "sells": 2
-                },
-                "h1": {
-                    "buys": 14,
-                    "sells": 10
-                },
-                "h6": {
-                    "buys": 43,
-                    "sells": 32
-                },
-                "h24": {
-                    "buys": 46,
-                    "sells": 37
-                }
-            },
-            "volume": {
-                "h24": 793.92,
-                "h6": 662.36,
-                "h1": 33.65,
-                "m5": 1.13
-            },
-            "priceChange": {
-                "m5": -0.03,
-                "h1": 71.55,
-                "h6": 23.17,
-                "h24": -57.86
-            },
-            "liquidity": {
-                "usd": 45.78,
-                "base": 2717804,
-                "quote": 10.9899
-            },
-            "fdv": 86835,
-            "marketCap": 86835,
-            "pairCreatedAt": 1728691606000,
-            "info": {
-                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::bloo.png",
-                "websites": [
-                    {
-                        "label": "Website",
-                        "url": "https://bloosui.xyz/"
-                    }
-                ],
-                "socials": [
-                    {
-                        "type": "twitter",
-                        "url": "https://x.com/SuiBloo"
-                    },
-                    {
-                        "type": "telegram",
-                        "url": "https://t.me/BlooOnSui"
-                    }
-                ]
-            }
-        },
-        {
-            "chainId": "sui",
-            "dexId": "cetus",
-            "url": "https://dexscreener.com/sui/0x8b8097643c0176c21b4a6f41a0d48b19fc74c0c2cd937e26c224f2968fe9799e",
-            "pairAddress": "0x8b8097643c0176c21b4a6f41a0d48b19fc74c0c2cd937e26c224f2968fe9799e",
-            "baseToken": {
-                "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
-                "name": "Sui Bloo",
-                "symbol": "BLOO"
-            },
-            "quoteToken": {
-                "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
-                "name": "SUI Token",
-                "symbol": "SUI"
-            },
-            "priceNative": "0.0003061",
-            "priceUsd": "0.0006185",
+            "priceNative": "0.002200",
+            "priceUsd": "0.004928",
             "txns": {
                 "m5": {
                     "buys": 0,
@@ -178,16 +470,16 @@
                     "sells": 0
                 },
                 "h6": {
-                    "buys": 1,
+                    "buys": 0,
                     "sells": 0
                 },
                 "h24": {
-                    "buys": 15,
-                    "sells": 10
+                    "buys": 13,
+                    "sells": 16
                 }
             },
             "volume": {
-                "h24": 55.41,
+                "h24": 1.86,
                 "h6": 0,
                 "h1": 0,
                 "m5": 0
@@ -195,33 +487,33 @@
             "priceChange": {
                 "m5": 0,
                 "h1": 0,
-                "h6": -55.38,
-                "h24": 11885
+                "h6": 0,
+                "h24": -69.36
             },
             "liquidity": {
-                "usd": 0.15,
-                "base": 211.8983,
-                "quote": 0.009612
+                "usd": 1.25,
+                "base": 126.9384,
+                "quote": 0.279
             },
-            "fdv": 6185547,
-            "marketCap": 6185547,
-            "pairCreatedAt": 1728665594000,
+            "fdv": 4928287,
+            "marketCap": 4928287,
+            "pairCreatedAt": 1727902603000,
             "info": {
-                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::bloo.png",
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png",
                 "websites": [
                     {
                         "label": "Website",
-                        "url": "https://bloosui.xyz/"
+                        "url": "https://www.suiman.xyz/"
                     }
                 ],
                 "socials": [
                     {
                         "type": "twitter",
-                        "url": "https://x.com/SuiBloo"
+                        "url": "https://x.com/SuimanFanPage"
                     },
                     {
                         "type": "telegram",
-                        "url": "https://t.me/BlooOnSui"
+                        "url": "https://t.me/SuimanPortal"
                     }
                 ]
             }
@@ -229,20 +521,20 @@
         {
             "chainId": "sui",
             "dexId": "bluemove",
-            "url": "https://dexscreener.com/sui/0xa9348ddd9838e47ab53c2220a856db224f4e254b942fe5b10389832c5ca51d98",
-            "pairAddress": "0xa9348ddd9838e47ab53c2220a856db224f4e254b942fe5b10389832c5ca51d98",
+            "url": "https://dexscreener.com/sui/0x098550b56bbe0e1ea80307e9b43b368ccd13caa5670d012ac4bdfd1d604d8e45",
+            "pairAddress": "0x098550b56bbe0e1ea80307e9b43b368ccd13caa5670d012ac4bdfd1d604d8e45",
             "baseToken": {
-                "address": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
-                "name": "USDC",
-                "symbol": "USDC"
+                "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+                "name": "Suiman",
+                "symbol": "suiman"
             },
             "quoteToken": {
-                "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
-                "name": "Sui Bloo",
-                "symbol": "BLOO"
+                "address": "0xd9773016f31a1216fb0a1e0b0937f09687663807e8cb8a19ba5a12f2f5dcab88::suijak::SUIJAK",
+                "name": "Suijak",
+                "symbol": "SUIJAK"
             },
-            "priceNative": "961.7231",
-            "priceUsd": "0.008931",
+            "priceNative": "24.5541",
+            "priceUsd": "0.004579",
             "txns": {
                 "m5": {
                     "buys": 0,
@@ -257,12 +549,12 @@
                     "sells": 0
                 },
                 "h24": {
-                    "buys": 12,
-                    "sells": 17
+                    "buys": 4,
+                    "sells": 1
                 }
             },
             "volume": {
-                "h24": 5.8,
+                "h24": 0.02,
                 "h6": 0,
                 "h1": 0,
                 "m5": 0
@@ -271,16 +563,35 @@
                 "m5": 0,
                 "h1": 0,
                 "h6": 0,
-                "h24": -99.28
+                "h24": -31.39
             },
             "liquidity": {
-                "usd": 0,
-                "base": 0.01159,
-                "quote": 17.7947
+                "usd": 0.07,
+                "base": 8.3373,
+                "quote": 213.8793
             },
-            "fdv": 292081,
-            "marketCap": 312382203,
-            "pairCreatedAt": 1728667016000
+            "fdv": 4579927,
+            "marketCap": 4579927,
+            "pairCreatedAt": 1728343376000,
+            "info": {
+                "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png",
+                "websites": [
+                    {
+                        "label": "Website",
+                        "url": "https://www.suiman.xyz/"
+                    }
+                ],
+                "socials": [
+                    {
+                        "type": "twitter",
+                        "url": "https://x.com/SuimanFanPage"
+                    },
+                    {
+                        "type": "telegram",
+                        "url": "https://t.me/SuimanPortal"
+                    }
+                ]
+            }
         }
     ]
 }

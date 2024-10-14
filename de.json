@@ -1,142 +1,2827 @@
 [
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727883000,
+        "value": 0.0003032879631857392
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727884800,
+        "value": 0.00040399196923148075
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727886600,
+        "value": 0.0003231446798352614
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727888400,
+        "value": 0.0003714994707809222
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727890200,
+        "value": 0.0004214468970645292
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727892000,
+        "value": 0.0003349903790271761
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727893800,
+        "value": 0.00028986923349132523
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727895600,
+        "value": 0.0003998085762636739
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727897400,
+        "value": 0.00045410083197415274
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727899200,
+        "value": 0.0004631145661504982
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727901000,
+        "value": 0.0006305741591052799
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727902800,
+        "value": 0.0005699134459876956
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727904600,
+        "value": 0.0006955762547572013
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727906400,
+        "value": 0.0008724167659357205
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727908200,
+        "value": 0.000745027385219016
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727910000,
+        "value": 0.0006058261801987308
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727911800,
+        "value": 0.0004991093657678937
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727913600,
+        "value": 0.0005616611139015331
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727915400,
+        "value": 0.0006483297469646881
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727917200,
+        "value": 0.0006198538283681032
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727919000,
+        "value": 0.0007401468176036882
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727920800,
+        "value": 0.001306557612956899
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727922600,
+        "value": 0.0014427266649690218
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727924400,
+        "value": 0.001893776603846982
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727926200,
+        "value": 0.0020654872143256475
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727928000,
+        "value": 0.0016153463343602068
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727929800,
+        "value": 0.0014020193610322727
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727931600,
+        "value": 0.0012911403140639848
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727933400,
+        "value": 0.001452314692370995
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727935200,
+        "value": 0.0018915418033510743
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727937000,
+        "value": 0.0015109353001408871
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727938800,
+        "value": 0.0012817565748760112
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727940600,
+        "value": 0.0009436419144975562
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727942400,
+        "value": 0.0010931432999871547
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727944200,
+        "value": 0.0010584955140272537
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727946000,
+        "value": 0.0011596060859948576
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727947800,
+        "value": 0.0014526267256680916
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727949600,
+        "value": 0.0015591862934288892
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727951400,
+        "value": 0.0014062468342325783
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727953200,
+        "value": 0.001934650011108626
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727955000,
+        "value": 0.001491991217481201
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727956800,
+        "value": 0.0014510922851583515
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727958600,
+        "value": 0.00128553463414278
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727960400,
+        "value": 0.0014248637438594488
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727962200,
+        "value": 0.0013188646837144823
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727964000,
+        "value": 0.001290446794928466
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727965800,
+        "value": 0.0008334733039338221
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727967600,
+        "value": 0.000884896101214513
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727969400,
+        "value": 0.0010077156645843955
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727971200,
+        "value": 0.0010153791642776829
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727973000,
+        "value": 0.0010129213135364986
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727974800,
+        "value": 0.0009454890122252956
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727976600,
+        "value": 0.0007684987870532105
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727978400,
+        "value": 0.0009068596389419252
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727980200,
+        "value": 0.000985060613437469
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727982000,
+        "value": 0.00087286182775561
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727983800,
+        "value": 0.0011534179397055633
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727985600,
+        "value": 0.001141120194111633
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727987400,
+        "value": 0.0010495862832331669
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727989200,
+        "value": 0.0014469906617400918
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727991000,
+        "value": 0.0014392456278887018
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727992800,
+        "value": 0.0016914650472444996
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727994600,
+        "value": 0.001657453743530369
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727996400,
+        "value": 0.0014295696203381672
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1727998200,
+        "value": 0.0013146331432059002
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728000000,
+        "value": 0.0013579700558941207
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728001800,
+        "value": 0.0012998858069095103
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728003600,
+        "value": 0.0015019285231406597
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728005400,
+        "value": 0.0013100741822980712
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728007200,
+        "value": 0.0015886613378633433
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728009000,
+        "value": 0.00157029564617726
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728010800,
+        "value": 0.001541521802642867
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728012600,
+        "value": 0.0013146089352908323
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728014400,
+        "value": 0.0015102223945140947
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728016200,
+        "value": 0.0015565243788918473
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728018000,
+        "value": 0.0016971686302112937
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728019800,
+        "value": 0.0017246754742202943
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728021600,
+        "value": 0.0017089948021798216
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728023400,
+        "value": 0.0015602350198947385
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728025200,
+        "value": 0.0015766100791563436
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728027000,
+        "value": 0.001235921277542561
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728028800,
+        "value": 0.0012770287147560525
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728030600,
+        "value": 0.0014996068344165542
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728032400,
+        "value": 0.0014090146708887307
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728034200,
+        "value": 0.0013184185213207633
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728036000,
+        "value": 0.001297923878559328
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728037800,
+        "value": 0.0011460371348969843
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728039600,
+        "value": 0.0010922896556112116
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728041400,
+        "value": 0.001234977236482637
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728043200,
+        "value": 0.0013530622080343859
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728045000,
+        "value": 0.0012676245304361394
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728046800,
+        "value": 0.0013108337987977664
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728048600,
+        "value": 0.0010770671924921892
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728050400,
+        "value": 0.001121744522370615
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728052200,
+        "value": 0.00117459418685958
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728054000,
+        "value": 0.0011668297944463554
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728055800,
+        "value": 0.0011019681827573091
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728057600,
+        "value": 0.0010601661418627188
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728059400,
+        "value": 0.0011965005338812071
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728061200,
+        "value": 0.0011062867436515797
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728063000,
+        "value": 0.001089829312080493
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728064800,
+        "value": 0.001113712954750107
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728066600,
+        "value": 0.0012074803889296972
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728068400,
+        "value": 0.001347432842227894
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728070200,
+        "value": 0.0014845211185304263
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728072000,
+        "value": 0.001285281311950898
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728073800,
+        "value": 0.0013779357156913136
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728075600,
+        "value": 0.0012411809071991896
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728077400,
+        "value": 0.0011685030758551492
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728079200,
+        "value": 0.0011962431329711819
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728081000,
+        "value": 0.0012992094700319714
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728082800,
+        "value": 0.001095436785085374
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728084600,
+        "value": 0.0009999474249345738
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728086400,
+        "value": 0.0009571224858397579
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728088200,
+        "value": 0.0008516151713797705
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728090000,
+        "value": 0.0007157616646781155
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728091800,
+        "value": 0.0005982691119016405
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728093600,
+        "value": 0.0007768271776532725
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728095400,
+        "value": 0.0008185048177781161
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728097200,
+        "value": 0.0007592303488159228
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728099000,
+        "value": 0.0006869435468527782
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728100800,
+        "value": 0.0008281986983494468
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728102600,
+        "value": 0.0006643898581130416
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728104400,
+        "value": 0.0006692020588336366
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728106200,
+        "value": 0.0006735971797674
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728108000,
+        "value": 0.0007195831303967561
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728109800,
+        "value": 0.0006493295889552212
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728111600,
+        "value": 0.0006615356315905568
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728113400,
+        "value": 0.0005348251613452768
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728115200,
+        "value": 0.0006685853312079433
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728117000,
+        "value": 0.0006437007178717765
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728118800,
+        "value": 0.0005273182533337707
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728120600,
+        "value": 0.0006292746641311208
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728122400,
+        "value": 0.0006869257352640083
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728124200,
+        "value": 0.0007252442723015335
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728126000,
+        "value": 0.000633844337586514
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728127800,
+        "value": 0.0007051101665869672
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728129600,
+        "value": 0.0006343629911546586
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728131400,
+        "value": 0.000558792305811996
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728133200,
+        "value": 0.0004885375256267587
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728135000,
+        "value": 0.00039378737959754924
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728136800,
+        "value": 0.000332359582723652
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728138600,
+        "value": 0.0003874076899678483
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728140400,
+        "value": 0.00039425505306385446
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728142200,
+        "value": 0.0004547145364892235
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728144000,
+        "value": 0.00044611815570955426
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728145800,
+        "value": 0.0004113173459906575
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728147600,
+        "value": 0.0006366886612610998
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728149400,
+        "value": 0.00047858333211076297
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728151200,
+        "value": 0.0006065372458244144
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728153000,
+        "value": 0.0005002776013585162
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728154800,
+        "value": 0.00046878147966629094
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728156600,
+        "value": 0.0004677027970170418
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728158400,
+        "value": 0.000443204667107094
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728160200,
+        "value": 0.0004252508087631009
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728162000,
+        "value": 0.0004671026941759344
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728163800,
+        "value": 0.0005778453924119594
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728165600,
+        "value": 0.0005404908534732407
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728167400,
+        "value": 0.000656036215283402
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728169200,
+        "value": 0.0006255030799546688
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728171000,
+        "value": 0.0006126386755034941
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728172800,
+        "value": 0.0005865563898542197
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728174600,
+        "value": 0.0005514994644470848
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728176400,
+        "value": 0.0005077488426650942
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728178200,
+        "value": 0.0004884344149334532
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728180000,
+        "value": 0.0005111151754886722
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728181800,
+        "value": 0.0004576330511894147
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728183600,
+        "value": 0.0004957241123886276
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728185400,
+        "value": 0.0005685920752629846
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728187200,
+        "value": 0.0005112350117748361
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728189000,
+        "value": 0.0005590174801687967
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728190800,
+        "value": 0.0005040033444340574
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728192600,
+        "value": 0.0005003449766719127
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728194400,
+        "value": 0.0004854110027239142
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728196200,
+        "value": 0.0004722605839653539
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728198000,
+        "value": 0.0006133055186367424
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728199800,
+        "value": 0.0005059703262658206
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728201600,
+        "value": 0.000548292787445985
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728203400,
+        "value": 0.0005761913753672679
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728205200,
+        "value": 0.0006093285199772566
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728207000,
+        "value": 0.0007585850757741082
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728208800,
+        "value": 0.0005767194402561527
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728210600,
+        "value": 0.0006115351344937293
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728212400,
+        "value": 0.0005890431636232293
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728214200,
+        "value": 0.0005832028735382365
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728216000,
+        "value": 0.0005902860996462946
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728217800,
+        "value": 0.0005994069873503469
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728219600,
+        "value": 0.000660743600012992
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728221400,
+        "value": 0.0007349559820123967
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728223200,
+        "value": 0.0008318123966394427
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728225000,
+        "value": 0.0010653149290401158
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728226800,
+        "value": 0.0011610858204255262
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728228600,
+        "value": 0.0013913519228930821
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728230400,
+        "value": 0.0012910898867678111
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728232200,
+        "value": 0.0012236089022370983
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728234000,
+        "value": 0.001206813388185252
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728235800,
+        "value": 0.0012222038032130389
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728237600,
+        "value": 0.0010926726552376311
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728239400,
+        "value": 0.0010853802701458455
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728241200,
+        "value": 0.0012224853542387507
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728243000,
+        "value": 0.001237361792065229
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728244800,
+        "value": 0.0012490422818318876
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728246600,
+        "value": 0.0012617935774631294
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728248400,
+        "value": 0.0011853253155827313
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728250200,
+        "value": 0.001323216912121629
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728252000,
+        "value": 0.0015305927944567871
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728253800,
+        "value": 0.0014525636189978207
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728255600,
+        "value": 0.0016170577091829943
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728257400,
+        "value": 0.0015255769667011042
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728259200,
+        "value": 0.001452539457024901
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728261000,
+        "value": 0.0014293995726920175
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728262800,
+        "value": 0.0014229177259931336
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728264600,
+        "value": 0.0013626812721191366
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728266400,
+        "value": 0.0016028086892104425
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728268200,
+        "value": 0.001833557081916805
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728270000,
+        "value": 0.0017436536616703732
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728271800,
+        "value": 0.001814311296127568
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728273600,
+        "value": 0.0018542503828872462
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728275400,
+        "value": 0.001813449490626618
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728277200,
+        "value": 0.0015257337414313085
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728279000,
+        "value": 0.0016391408185647757
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728280800,
+        "value": 0.0017539147412121878
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728282600,
+        "value": 0.0017940151864506441
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728284400,
+        "value": 0.001468814896542844
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728286200,
+        "value": 0.0016974329044919894
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728288000,
+        "value": 0.001768630466234249
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728289800,
+        "value": 0.0022404960554288757
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728291600,
+        "value": 0.0021773506605347677
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728293400,
+        "value": 0.0019344413167430006
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728295200,
+        "value": 0.0019993377258323876
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728297000,
+        "value": 0.0022437627674188527
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728298800,
+        "value": 0.0025752303716656986
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728300600,
+        "value": 0.0025095890360822886
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728302400,
+        "value": 0.002384618994973669
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728304200,
+        "value": 0.00250217368935516
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728306000,
+        "value": 0.0029883899016133835
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728307800,
+        "value": 0.003202330100648603
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728309600,
+        "value": 0.0026994807003125963
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728311400,
+        "value": 0.002709305206727913
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728313200,
+        "value": 0.002711618162461732
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728315000,
+        "value": 0.0026512067367630036
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728316800,
+        "value": 0.0024177916921439137
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728318600,
+        "value": 0.002126887728133005
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728320400,
+        "value": 0.0025741997458329146
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728322200,
+        "value": 0.0027391017797405775
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728324000,
+        "value": 0.0028370374093972008
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728325800,
+        "value": 0.0027423951075949593
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728327600,
+        "value": 0.00314255224205619
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728329400,
+        "value": 0.002436986083671749
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728331200,
+        "value": 0.0028559666947078305
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728333000,
+        "value": 0.002945369053804058
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728334800,
+        "value": 0.0031012943182413323
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728336600,
+        "value": 0.0035167835095721847
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728338400,
+        "value": 0.0033132118601933327
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728340200,
+        "value": 0.003228155119112631
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728342000,
+        "value": 0.003477836824134566
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728343800,
+        "value": 0.003272583130591382
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728345600,
+        "value": 0.003208958616394688
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728347400,
+        "value": 0.0029681899429616146
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728349200,
+        "value": 0.002949280888059881
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728351000,
+        "value": 0.0028864389096952066
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728352800,
+        "value": 0.0027055565427927986
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728354600,
+        "value": 0.002729232952774357
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728356400,
+        "value": 0.0033162133176162637
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728358200,
+        "value": 0.003286633295446773
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728360000,
+        "value": 0.0034575971793006236
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728361800,
+        "value": 0.003517961352364344
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728363600,
+        "value": 0.0031564729370017223
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728365400,
+        "value": 0.0031096929438374074
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728367200,
+        "value": 0.002931011111536013
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728369000,
+        "value": 0.0027784618207112237
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728370800,
+        "value": 0.002515290794170463
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728372600,
+        "value": 0.0027018791887860874
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728374400,
+        "value": 0.00297050514020545
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728376200,
+        "value": 0.0031591486033158123
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728378000,
+        "value": 0.0028584194910955866
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728379800,
+        "value": 0.0026629317053845883
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728381600,
+        "value": 0.0026737598288578577
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728383400,
+        "value": 0.0026597726013046956
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728385200,
+        "value": 0.0027599060280931727
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728387000,
+        "value": 0.002679755542716664
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728388800,
+        "value": 0.0025356047444238306
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728390600,
+        "value": 0.002483033459315396
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728392400,
+        "value": 0.0021393576268902686
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728394200,
+        "value": 0.0023338895384879548
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728396000,
+        "value": 0.002288909867640138
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728397800,
+        "value": 0.0028126025745067542
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728399600,
+        "value": 0.002556278034971659
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728401400,
+        "value": 0.002341218006988196
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728403200,
+        "value": 0.002175460090073202
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728405000,
+        "value": 0.002497489057475642
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728406800,
+        "value": 0.0022840248674389557
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728408600,
+        "value": 0.002410034028565766
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728410400,
+        "value": 0.0024614062743842937
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728412200,
+        "value": 0.0026080729238407794
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728414000,
+        "value": 0.0025350234649232457
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728415800,
+        "value": 0.0025644404767763865
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728417600,
+        "value": 0.0024273650412664264
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728419400,
+        "value": 0.0024141644103858363
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728421200,
+        "value": 0.002243535079977265
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728423000,
+        "value": 0.002255985134122837
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728424800,
+        "value": 0.0021492892323984997
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728426600,
+        "value": 0.002204005411138865
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728428400,
+        "value": 0.0021013018582173144
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728430200,
+        "value": 0.0018076359388553482
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728432000,
+        "value": 0.001807574548609872
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728433800,
+        "value": 0.0018821929295471124
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728435600,
+        "value": 0.0020576958021381454
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728437400,
+        "value": 0.0022311519733229927
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728439200,
+        "value": 0.002178039251699147
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728441000,
+        "value": 0.0016494176811111716
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728442800,
+        "value": 0.001762014927545472
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728444600,
+        "value": 0.001668035672282659
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728446400,
+        "value": 0.0017603037985727962
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728448200,
+        "value": 0.0018800803251240448
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728450000,
+        "value": 0.0020156906012507208
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728451800,
+        "value": 0.0018782329805723237
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728453600,
+        "value": 0.001738985771116396
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728455400,
+        "value": 0.0017292095871401464
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728457200,
+        "value": 0.0016979525175135047
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728459000,
+        "value": 0.0016510344728067662
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728460800,
+        "value": 0.0016822797473599808
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728462600,
+        "value": 0.0015604108524464753
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728464400,
+        "value": 0.001672605235838264
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728466200,
+        "value": 0.0018812029779424375
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728468000,
+        "value": 0.001688431052935947
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728469800,
+        "value": 0.0021181968893144937
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728471600,
+        "value": 0.001949510484056811
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728473400,
+        "value": 0.002042732643686479
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728475200,
+        "value": 0.00209335492528488
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728477000,
+        "value": 0.0024266407423937414
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728478800,
+        "value": 0.0021730081305691737
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728480600,
+        "value": 0.0023578255490700156
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728482400,
+        "value": 0.0021990202983202243
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728484200,
+        "value": 0.001994849164570123
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728486000,
+        "value": 0.002092798491628421
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728487800,
+        "value": 0.0024910781306774735
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728489600,
+        "value": 0.0022766241583915717
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728491400,
+        "value": 0.0023499460800659637
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728493200,
+        "value": 0.0025973337632676477
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728495000,
+        "value": 0.002429051252695303
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728496800,
+        "value": 0.002684410328777394
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728498600,
+        "value": 0.002647388076728118
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728500400,
+        "value": 0.0023420311974817723
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728502200,
+        "value": 0.0022870717052655455
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728504000,
+        "value": 0.002033838273878438
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728505800,
+        "value": 0.0021257158075490413
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728507600,
+        "value": 0.0020557717587553885
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728509400,
+        "value": 0.0020729596610701995
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728511200,
+        "value": 0.0020703547998378634
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728513000,
+        "value": 0.0019376894077579776
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728514800,
+        "value": 0.001929035081863324
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728516600,
+        "value": 0.001990643756044088
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728518400,
+        "value": 0.0023098976935730636
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728520200,
+        "value": 0.0022795474656084787
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728522000,
+        "value": 0.0021367302629445935
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728523800,
+        "value": 0.0021688870853184697
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728525600,
+        "value": 0.002017036609530973
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728527400,
+        "value": 0.0016508223821971844
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728529200,
+        "value": 0.0018003862661573713
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728531000,
+        "value": 0.0017918860668319871
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728532800,
+        "value": 0.0019329609402397078
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728534600,
+        "value": 0.0020925190936704786
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728536400,
+        "value": 0.0021017657247104633
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728538200,
+        "value": 0.0018656475982916402
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728540000,
+        "value": 0.002055584462709639
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728541800,
+        "value": 0.002061379984318467
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728543600,
+        "value": 0.002118563915420201
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728545400,
+        "value": 0.0020915502851579005
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728547200,
+        "value": 0.002067971013415389
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728549000,
+        "value": 0.0021802381905323925
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728550800,
+        "value": 0.0023494144991184976
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728552600,
+        "value": 0.0022969879321446435
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728554400,
+        "value": 0.0025685511217752826
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728556200,
+        "value": 0.0026720932971607122
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728558000,
+        "value": 0.0026878223730844317
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728559800,
+        "value": 0.002989583365987149
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728561600,
+        "value": 0.0028762472001118322
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728563400,
+        "value": 0.00287985966100166
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728565200,
+        "value": 0.0028793789981471692
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728567000,
+        "value": 0.002753275005329303
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728568800,
+        "value": 0.002684496122015805
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728570600,
+        "value": 0.0026021106943063775
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728572400,
+        "value": 0.0025846508228393344
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728574200,
+        "value": 0.002774996146326998
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728576000,
+        "value": 0.003260046970583069
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728577800,
+        "value": 0.003346082172965398
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728579600,
+        "value": 0.003212549613363092
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728581400,
+        "value": 0.003130428134244901
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728583200,
+        "value": 0.002822874619901963
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728585000,
+        "value": 0.0029575133609166713
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728586800,
+        "value": 0.003217725343115713
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728588600,
+        "value": 0.0032454867374310803
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728590400,
+        "value": 0.0031468095059105283
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728592200,
+        "value": 0.003230736804139281
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728594000,
+        "value": 0.003175952330659821
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728595800,
+        "value": 0.0032854119062547165
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728597600,
+        "value": 0.0031201380899563043
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728599400,
+        "value": 0.0029459296224215296
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728601200,
+        "value": 0.0027823997265842087
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728603000,
+        "value": 0.002673401991769014
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728604800,
+        "value": 0.002721332231730203
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728606600,
+        "value": 0.002690367589251066
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728608400,
+        "value": 0.002731612110086774
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728610200,
+        "value": 0.0029720847342846073
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728612000,
+        "value": 0.0029879643639448704
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728613800,
+        "value": 0.0030517199319259466
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728615600,
+        "value": 0.002839364847226821
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728617400,
+        "value": 0.002808642211075731
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728619200,
+        "value": 0.0028110443501084535
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728621000,
+        "value": 0.0028630166142844943
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728622800,
+        "value": 0.002855625585606081
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728624600,
+        "value": 0.0026865051556634032
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728626400,
+        "value": 0.0027159400772827566
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728628200,
+        "value": 0.0029816268809727143
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728630000,
+        "value": 0.002918923036135355
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728631800,
+        "value": 0.003066043112045033
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728633600,
+        "value": 0.0032554058388528295
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728635400,
+        "value": 0.003579448763316354
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728637200,
+        "value": 0.0034323642064150277
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728639000,
+        "value": 0.0035994645538377982
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728640800,
+        "value": 0.003861594575960343
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728642600,
+        "value": 0.003525239470493746
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728644400,
+        "value": 0.003454849427102104
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728646200,
+        "value": 0.0037385357710104368
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728648000,
+        "value": 0.003970106695858269
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728649800,
+        "value": 0.004048865265091607
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728651600,
+        "value": 0.004133656233460596
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728653400,
+        "value": 0.003983194129753068
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728655200,
+        "value": 0.003931307133548715
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728657000,
+        "value": 0.0036894256304845705
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728658800,
+        "value": 0.0038147799581134596
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728660600,
+        "value": 0.0037905494978502795
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728662400,
+        "value": 0.003695362136207784
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728664200,
+        "value": 0.0039420765088935055
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728666000,
-        "value": 0.002120154633232761
+        "value": 0.0037831720893106366
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728667800,
-        "value": 0.002120154633232761
+        "value": 0.004184869856393904
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728669600,
-        "value": 0.002120154633232761
+        "value": 0.0036629716242571704
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728671400,
-        "value": 0.002120154633232761
+        "value": 0.003617359546557637
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728673200,
-        "value": 0.002120154633232761
+        "value": 0.003491101864825067
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728675000,
-        "value": 0.002120154633232761
+        "value": 0.003365999784197691
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728676800,
-        "value": 0.002120154633232761
+        "value": 0.0034929945911470264
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728678600,
-        "value": 0.002120154633232761
+        "value": 0.0033643135970697915
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728680400,
-        "value": 0.002120154633232761
+        "value": 0.003277529324229017
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728682200,
-        "value": 0.002120154633232761
+        "value": 0.003303045728586028
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728684000,
-        "value": 0.002120154633232761
+        "value": 0.0033029092766726823
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728685800,
-        "value": 0.002120154633232761
+        "value": 0.00335373774443173
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728687600,
-        "value": 0.002120154633232761
+        "value": 0.0032676476804134372
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728689400,
-        "value": 0.002120154633232761
+        "value": 0.0032300784222408356
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728691200,
-        "value": 1.2211732617931912e-05
+        "value": 0.0035059825738158763
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728693000,
-        "value": 1.2211732617931912e-05
+        "value": 0.0035307792808169226
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728694800,
-        "value": 9.09047291473451e-06
+        "value": 0.0038562470228616216
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728696600,
-        "value": 9.09047291473451e-06
+        "value": 0.004026627457113003
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728698400,
-        "value": 9.09047291473451e-06
+        "value": 0.004111002990930583
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728700200,
-        "value": 9.09047291473451e-06
+        "value": 0.004135747912791895
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728702000,
-        "value": 8.389884973909239e-06
+        "value": 0.003832648342880515
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728703800,
-        "value": 7.535913473088775e-06
+        "value": 0.0039873327956515625
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728705600,
-        "value": 7.535913473088775e-06
+        "value": 0.0038445244884944747
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728707400,
-        "value": 6.136276164265862e-06
+        "value": 0.00384472432128007
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728709200,
-        "value": 6.017283507810249e-06
+        "value": 0.003823723145752907
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728711000,
-        "value": 4.65000784443912e-06
+        "value": 0.004189954659590197
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728712800,
-        "value": 6.698206064542545e-06
+        "value": 0.004334689744027362
     },
     {
-        "address": "0x221c90b7ae2af88b38b4fdb58833f833b2788984a1666c120393bea25b21163f::bloo::BLOO",
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
         "unixTime": 1728714600,
-        "value": 8.835330069523777e-06
+        "value": 0.004307830766701766
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728716400,
+        "value": 0.0047249681284690145
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728718200,
+        "value": 0.0045941579164835555
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728720000,
+        "value": 0.004840774448597863
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728721800,
+        "value": 0.004750403045038536
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728723600,
+        "value": 0.005073416888402364
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728725400,
+        "value": 0.0045554306225989594
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728727200,
+        "value": 0.004582074138345596
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728729000,
+        "value": 0.00500496843102512
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728730800,
+        "value": 0.005203569392494765
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728732600,
+        "value": 0.0053803103829908865
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728734400,
+        "value": 0.0050723862469569956
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728736200,
+        "value": 0.005036753016842002
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728738000,
+        "value": 0.004779764643243669
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728739800,
+        "value": 0.004792876468736564
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728741600,
+        "value": 0.004787971012274275
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728743400,
+        "value": 0.004652530295541618
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728745200,
+        "value": 0.00474591021792212
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728747000,
+        "value": 0.004777655311315544
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728748800,
+        "value": 0.005316541333957313
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728750600,
+        "value": 0.005678061773159873
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728752400,
+        "value": 0.0053557248652754885
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728754200,
+        "value": 0.005855575375481253
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728756000,
+        "value": 0.005914387932437015
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728757800,
+        "value": 0.005843267216183119
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728759600,
+        "value": 0.006449020578985661
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728761400,
+        "value": 0.005978635197437432
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728763200,
+        "value": 0.0068137526364319455
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728765000,
+        "value": 0.006302670220065569
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728766800,
+        "value": 0.0069506039978117435
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728768600,
+        "value": 0.00726612361378234
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728770400,
+        "value": 0.007481008806521865
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728772200,
+        "value": 0.00668011034746766
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728774000,
+        "value": 0.0065280019873026635
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728775800,
+        "value": 0.00730686942775636
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728777600,
+        "value": 0.0075794448455210025
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728779400,
+        "value": 0.0074179242624836704
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728781200,
+        "value": 0.007326691143090267
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728783000,
+        "value": 0.007677937336741708
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728784800,
+        "value": 0.007776067338926818
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728786600,
+        "value": 0.007450252315808892
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728788400,
+        "value": 0.006486948296541668
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728790200,
+        "value": 0.007106198097708695
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728792000,
+        "value": 0.0077040721973789935
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728793800,
+        "value": 0.006618507377819926
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728795600,
+        "value": 0.006004329677440968
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728797400,
+        "value": 0.0060292084447430725
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728799200,
+        "value": 0.006075245660411305
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728801000,
+        "value": 0.006303540485933262
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728802800,
+        "value": 0.0063735874875444805
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728804600,
+        "value": 0.006721253651741095
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728806400,
+        "value": 0.006873988320875118
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728808200,
+        "value": 0.006612500031623708
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728810000,
+        "value": 0.006678519382155473
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728811800,
+        "value": 0.0065338027882404425
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728813600,
+        "value": 0.00658188730524832
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728815400,
+        "value": 0.006917263046926157
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728817200,
+        "value": 0.007286457926097292
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728819000,
+        "value": 0.007281657550634482
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728820800,
+        "value": 0.007417302578806931
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728822600,
+        "value": 0.006690002336668836
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728824400,
+        "value": 0.005944268071868663
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728826200,
+        "value": 0.00619242321437988
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728828000,
+        "value": 0.006034906712213008
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728829800,
+        "value": 0.005855916676380891
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728831600,
+        "value": 0.005566544319011998
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728833400,
+        "value": 0.005415658398127159
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728835200,
+        "value": 0.005664639011254213
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728837000,
+        "value": 0.005883940119218766
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728838800,
+        "value": 0.006433629756044806
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728840600,
+        "value": 0.005720502323844047
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728842400,
+        "value": 0.0052201558575149755
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728844200,
+        "value": 0.005261333817541452
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728846000,
+        "value": 0.0045463011868625515
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728847800,
+        "value": 0.005285160511431393
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728849600,
+        "value": 0.005088481090887036
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728851400,
+        "value": 0.004965138562405338
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728853200,
+        "value": 0.005318532745711832
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728855000,
+        "value": 0.005744695821714597
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728856800,
+        "value": 0.0057370160200367224
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728858600,
+        "value": 0.005359823165769253
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728860400,
+        "value": 0.005585223904035175
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728862200,
+        "value": 0.006036031870176784
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728864000,
+        "value": 0.0055764921811754875
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728865800,
+        "value": 0.0054190549461757605
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728867600,
+        "value": 0.0049482377519628725
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728869400,
+        "value": 0.004824783820665011
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728871200,
+        "value": 0.004507550036566647
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728873000,
+        "value": 0.004737621592589673
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728874800,
+        "value": 0.004934797134288757
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728876600,
+        "value": 0.0050061593731503245
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728878400,
+        "value": 0.005283852237945982
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728880200,
+        "value": 0.005560938709378802
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728882000,
+        "value": 0.005287825048374461
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728883800,
+        "value": 0.004968883091143833
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728885600,
+        "value": 0.004762517932384602
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728887400,
+        "value": 0.0040465366363447615
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728889200,
+        "value": 0.004724617912301065
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728891000,
+        "value": 0.00455841157651585
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728892800,
+        "value": 0.004508180900025081
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728894600,
+        "value": 0.004543312976210086
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728896400,
+        "value": 0.004583650239164981
+    },
+    {
+        "address": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+        "unixTime": 1728898200,
+        "value": 0.004723569302967237
     }
 ]

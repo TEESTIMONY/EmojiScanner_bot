@@ -343,6 +343,8 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     chat_id = update.message.chat_id
     message = update.message.text
     if update.message.text and update.message.text.startswith("http"):
+    
+        if context.user_data['awaiting_media'] ==True:
             file_url = update.message.text
             if file_url.endswith(".gif"):
                 try:
@@ -557,7 +559,7 @@ async def scan(update:Update,context = ContextTypes.DEFAULT_TYPE):
         print('heree',e)
 
 TOKEN_KEY_ = '8137029737:AAHegPYrIqn64szuBQuLsxO6oLs_h0OqGMQ'
-# TOKEN_KEY_ = '7755481707:AAFcYVDbT4vRQuCnoB_EGHkJlrGw-EqmTZA'
+# TOKEN_KEY_ = '7112307264:AAHpaP5uZfU8bYb0pVE7j7WWnVLBQzejLvA'
 def main():
     create_table()
     app = ApplicationBuilder().token(TOKEN_KEY_).build()
